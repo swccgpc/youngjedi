@@ -1,0 +1,37 @@
+---
+
+name: Deploy Cards
+
+on: 
+  push: 
+    branches: 
+      - master
+    paths:
+      - 'cards/**'
+
+
+jobs:
+  deploy-holotable: 
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - uses: actions/checkout@main
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+
+      - name: sync to s3
+        run: |
+          echo "Cards"
+          aws s3 sync ./cards/ s3://res.starwarsccg.org/youngjedi/cards/ --exclude '.git/*' --exclude '.github/*' --exclude 'node_modules/*' --exclude README.md --exclude package-lock.json --exclude package.json
+          echo "Cloudfront Invalidation"
+          aws cloudfront create-invalidation --distribution-id E4R02360UW5RJ --paths "/youngjedi/cards/"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+
+
+
+

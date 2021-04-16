@@ -1,0 +1,18 @@
+| **Enhanced Battle of Naboo Card List** |                                                              |            |
+| -------------------------------------- | ------------------------------------------------------------ | ---------- |
+| LIGHT SIDE                             |                                                              |            |
+| #                                      | **Card Name**                                                | **Rarity** |
+| P9                                     | [Anakin Skywalker, Tested By The Jedi Council](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/light/small/anakinskywalker.html) | PM         |
+| P11                                    | [Captain Panaka, Royal Defender](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/light/small/captainpanaka.html) | PM         |
+| P8                                     | [Obi-Wan Kenobi, Jedi Avenger](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/light/small/obiwankenobi.html) | PM         |
+| P10                                    | [Padmé Naberrie, Loyal Handmaiden](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/light/small/padmenaberrie.html) | PM         |
+| P13                                    | [R2-D2, Starship Maintenance Droid](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/light/small/r2d2.html) | PM         |
+| P12                                    | [Yoda, Wise Jedi](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/light/small/yoda.html) | PM         |
+| DARK SIDE                              |                                                              |            |
+| #                                      | **Card Name**                                                | **Rarity** |
+| P16                                    | [Aurra Sing, Scoundrel](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/dark/small/aurrasing.html) | PM         |
+| P14                                    | [Darth Sidious, The Phantom Menace](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/dark/small/darthsidious.html) | PM         |
+| P17                                    | [Jabba The Hutt](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/dark/small/jabbathehutt.html) | PM         |
+| P18                                    | [Nute Gunray, Neimoidean Bureaucrat](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/dark/small/nutegunray.html) | PM         |
+| P19                                    | [Rune Haako, Neimoidean Lieutenant](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/dark/small/runehaako.html) | PM         |
+| P15                                    | [Watto, Risk Taker](https://web.archive.org/web/20040812041533/http://www2.decipher.com/youngjedi/cardlists/enhancedbattleofnaboo/dark/small/watto.html) | PM         |

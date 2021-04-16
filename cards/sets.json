@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "menace of darth maul",
+    "gempName": "menace of darth maul",
+    "abbr": "DM",
+    "legacy": "false"
+  },
+  {
+    "id": 2,
+    "name": "the jedi council",
+    "gempName": "the jedi council",
+    "abbr": "JC",
+    "legacy": "false"
+  },
+  {
+    "id": 3,
+    "name": "battle of naboo",
+    "gempName": "battle of naboo",
+    "abbr": "BN",
+    "legacy": "false"
+  },
+  {
+    "id": 4,
+    "name": "enhanced menace of darth maul",
+    "gempName": "enhanced menace of darth maul",
+    "abbr": "EDM",
+    "legacy": "false"
+  },
+  {
+    "id": 5,
+    "name": "duel of the fates",
+    "gempName": "duel of the fates",
+    "abbr": "DF",
+    "legacy": "false"
+  },
+  {
+    "id": 6,
+    "name": "enhanced battle of naboo",
+    "gempName": "enhanced battle of naboo",
+    "abbr": "EBN",
+    "legacy": "false"
+  },
+  {
+    "id": 7,
+    "name": "reflections",
+    "gempName": "reflections",
+    "abbr": "RF",
+    "legacy": "false"
+  },
+  {
+    "id": 8,
+    "name": "boonta eve podrace",
+    "gempName": "boonta eve podrace",
+    "abbr": "BP",
+    "legacy": "false"
+  }
+]

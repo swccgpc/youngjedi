@@ -1,0 +1,60 @@
+|dark|duelofthefates|character| 31 | Darth Maul, Student of the Dark Side|/duelofthefates/dark/small/darthmaul.html | Ultra-Rare |
+|dark|duelofthefates|character| 32 | Darth Sidious, Master of the Dark Side|/duelofthefates/dark/small/darthsidious.html | Rare |
+|dark|duelofthefates|character| 33 | Aurra Sing, Trophy Collector|/duelofthefates/dark/small/aurrasing.html | Rare |
+|dark|duelofthefates|character| 34 | Tey How, Neimoidian Command Officer|/duelofthefates/dark/small/teyhow.html | Rare |
+|dark|duelofthefates|character| 35 | OWO-1, Battle Droid Command Officer|/duelofthefates/dark/small/owo1.html | Rare |
+|dark|duelofthefates|character| 36 | Rayno Vaca, Taxi Driver|/duelofthefates/dark/small/reynovaca.html | Rare |
+|dark|duelofthefates|character| 37 | Baskol Yeesrim, Gran Senator|/duelofthefates/dark/small/baskolyeesrim.html | Rare |
+|dark|duelofthefates|character| 38 | Starfighter Droid, DFS-327|/duelofthefates/dark/small/starfighterdroiddfs327.html | Rare |
+|dark|duelofthefates|character| 39 | Starfighter Droid, DFS-1104|/duelofthefates/dark/small/starfighterdroiddfs1104.html | Rare |
+|dark|duelofthefates|character| 40 | Starfighter Droid, DFS-1138|/duelofthefates/dark/small/starfighterdroiddfs1138.html | Rare |
+|dark|duelofthefates|weapon| 41 | Jedi Lightsaber, Stolen by Aurra Sing|/duelofthefates/dark/small/jedilightsaber.html | Uncommon |
+|dark|duelofthefates|weapon| 42 | Coruscant Taxi|/duelofthefates/dark/small/coruscanttaxi.html | Uncommon |
+|dark|duelofthefates|weapon| 43 | Neimoidian Viewscreen|/duelofthefates/dark/small/neimoideanviewscreen.html | Common |
+|dark|duelofthefates|battle| 44 | Battle Droid Patrol|/duelofthefates/dark/small/battledroidpatrol.html | Uncommon |
+|dark|duelofthefates|battle| 45 | Change In Tactics|/duelofthefates/dark/small/changeintactics.html | Common |
+|dark|duelofthefates|battle| 46 | Dangerous Encounter|/duelofthefates/dark/small/dangerousencounter.html | Common |
+|dark|duelofthefates|battle| 47 | Darth Maul Defiant|/duelofthefates/dark/small/darthmauldefiant.html | Common |
+|dark|duelofthefates|battle| 48 | Impossible!|/duelofthefates/dark/small/impossible.html | Common |
+|dark|duelofthefates|battle| 49 | It's A Standoff!|/duelofthefates/dark/small/itsastandoff.html | Uncommon |
+|dark|duelofthefates|battle| 50 | Mobile Assassin|/duelofthefates/dark/small/mobileassassin.html | Uncommon |
+|dark|duelofthefates|battle| 51 | Power Of The Sith|/duelofthefates/dark/small/powerofthesith.html | Common |
+|dark|duelofthefates|battle| 52 | Starfighter Screen|/duelofthefates/dark/small/starfighterscreen.html | Common |
+|dark|duelofthefates|battle| 53 | To The Death|/duelofthefates/dark/small/tothedeath.html | Common |
+|dark|duelofthefates|battle| 54 | Use Caution|/duelofthefates/dark/small/usecaution.html | Uncommon |
+|dark|duelofthefates|effect| 55 | Blockade|/duelofthefates/dark/small/blockade.html | Uncommon |
+|dark|duelofthefates|effect| 56 | End This Pointless Debate|/duelofthefates/dark/small/endthispointlessdebate.html | Uncommon |
+|dark|duelofthefates|effect| 57 | The Duel Begins|/duelofthefates/dark/small/theduelbegins.html | Uncommon |
+|dark|duelofthefates|effect| 58 | The Jedi Are Involved|/duelofthefates/dark/small/thejediareinvolved.html | Uncommon |
+|dark|duelofthefates|effect| 59 | Where Are Those Droidekas?|/duelofthefates/dark/small/wherearethosedroidekas.html | Uncommon |
+|dark|duelofthefates|staship| 60 | Droid Starfighter|/duelofthefates/dark/small/droidstarfighter.html | Common |
+|light|duelofthefates|character| 1 | Obi-Wan Kenobi, Jedi Student|/duelofthefates/light/small/obiwankenobi.html | Rare |
+|light|duelofthefates|character| 2 | Qui-Gon Jinn, Jedi Mentor|/duelofthefates/light/small/quigonjinnjedimentor.html | Ultra-Rare |
+|light|duelofthefates|character| 3 | Anakin Skywalker, Rookie Pilot|/duelofthefates/light/small/anakinskywalker.html | Rare |
+|light|duelofthefates|character| 4 | Captain Panaka, Security Commander|/duelofthefates/light/small/captainpanaka.html | Rare |
+|light|duelofthefates|character| 5 | Mace Windu, Jedi Councilor|/duelofthefates/light/small/macewindu.html | Rare |
+|light|duelofthefates|character| 6 | Queen Amidala, Young Leader|/duelofthefates/light/small/queenamidala.html | Rare |
+|light|duelofthefates|character| 7 | Yoda, Jedi Philosopher|/duelofthefates/light/small/yoda.html | Rare |
+|light|duelofthefates|character| 8 | R2-D2, Repair Droid|/duelofthefates/light/small/r2d2repairdroid.html | Rare |
+|light|duelofthefates|character| 9 | Ric Olie, Starship Pilot|/duelofthefates/light/small/ricoliestarshippilot.html | Rare |
+|light|duelofthefates|character| 10 | Bravo Pilot, Flyer|/duelofthefates/light/small/bravopilot.html | Common |
+|light|duelofthefates|character| 11 | Valorum, Leader of the Senate|/duelofthefates/light/small/valorum.html | Common |
+|light|duelofthefates|weapon| 12 | Qui-Gon Jinn's Lightsaber, Wielded by Obi-Wan Kenobi|/duelofthefates/light/small/quigonjinnslightsaber.html | Rare |
+|light|duelofthefates|weapon| 13 | Booma|/duelofthefates/light/small/booma.html | Uncommon |
+|light|duelofthefates|battle| 14 | A Powerful Opponent|/duelofthefates/light/small/apowerfulopponent.html | Common |
+|light|duelofthefates|battle| 15 | Come On, Move!|/duelofthefates/light/small/comeonmove.html | Uncommon |
+|light|duelofthefates|battle| 16 | Critical Confrontation|/duelofthefates/light/small/criticalconfrontation.html | Common |
+|light|duelofthefates|battle| 17 | Gungan Mounted Troops|/duelofthefates/light/small/gunganmountedtroops.html | Uncommon |
+|light|duelofthefates|battle| 18 | Naboo Fighter Attack|/duelofthefates/light/small/naboofighterattack.html | Common |
+|light|duelofthefates|battle| 19 | Qui-Gon's Final Stand|/duelofthefates/light/small/quigonsfinalstand.html | Common |
+|light|duelofthefates|battle| 20 | Run The Blockade|/duelofthefates/light/small/runtheblockade.html | Common |
+|light|duelofthefates|battle| 21 | Twist Of Fate|/duelofthefates/light/small/twistoffate.html | Common |
+|light|duelofthefates|battle| 22 | You Are Strong With The Force|/duelofthefates/light/small/youarestrongwiththeforce.html | Uncommon |
+|light|duelofthefates|effect| 23 | Gungan Energy Shield|/duelofthefates/light/small/gunganenergyshield.html | Uncommon |
+|light|duelofthefates|effect| 24 | He Can See Things Before They Happen|/duelofthefates/light/small/hecanseethings.html | Uncommon |
+|light|duelofthefates|effect| 25 | Jedi Meditation|/duelofthefates/light/small/jedimeditation.html | Uncommon |
+|light|duelofthefates|effect| 26 | Jedi Training|/duelofthefates/light/small/jeditraining.html | Uncommon |
+|light|duelofthefates|effect| 27 | Naboo Royal Security Forces|/duelofthefates/light/small/nabooroyalsecurityforces.html | Uncommon |
+|light|duelofthefates|effect| 28 | Pounded Unto Death|/duelofthefates/light/small/poundeduntodeath.html | Common |
+|light|duelofthefates|effect| 29 | Senate Guard|/duelofthefates/light/small/senateguard.html | Uncommon |
+|light|duelofthefates|starship| 30 | Naboo Starfighter|/duelofthefates/light/small/naboostarfighter.html | Common |
