@@ -1,98 +1,98 @@
-|light|reflections|character|1|Queen Amidala, Royal Leader|/missing_image.png|unknown|9 (MDM)
-|light|reflections|character|2|Yoda, Jedi Master|/missing_image.png|unknown|10 (MDM)
-|light|reflections|character|3|Anakin Skywalker, Child of Prophecy|/missing_image.png|unknown|4 (TJC)
-|light|reflections|character|4|Queen Amidala, Voice of Her People|/missing_image.png|unknown|9 (TJC)
-|light|reflections|character|5|Anakin Skywalker, Padawan|/missing_image.png|unknown|4 (BON)
-|light|reflections|character|6|Mace Windu, Jedi Speaker|/missing_image.png|unknown|7 (BON)
-|light|reflections|character|7|Qui-Gon Jinn, Jedi Protector|/missing_image.png|unknown|P1 (EMDM)
-|light|reflections|character|8|Mace Windu, Jedi Warrior|/missing_image.png|unknown|P2 (EMDM)
-|light|reflections|character|9|Queen Amidala, Cunning Warrior|/missing_image.png|unknown|P3 (EMDM)
-|light|reflections|character|10|Obi-Wan Kenobi, Jedi Student|/missing_image.png|unknown|1 (DOTF)
-|light|reflections|character|11|Qui-Gon Jinn, Jedi Mentor|/missing_image.png|unknown|2 (DOTF)
-|light|reflections|character|12|Anakin Skywalker, Rookie Pilot|/missing_image.png|unknown|3 (DOTF)
-|light|reflections|character|13|Captain Panaka, Security Commander|/missing_image.png|unknown|4 (DOTF)
-|light|reflections|character|14|Mace Windu, Jedi Councilor|/missing_image.png|unknown|5 (DOTF)
-|light|reflections|character|15|Queen Amidala, Young Leader|/missing_image.png|unknown|6 (DOTF)
-|light|reflections|character|16|Yoda, Jedi Philosopher|/missing_image.png|unknown|7 (DOTF)
-|light|reflections|character|17|Shmi Skywalker, Anakin's Mother|/missing_image.png|unknown|P7 (PREM)
-|light|reflections|character|18|Obi-Wan Kenobi, Jedi Avenger|/missing_image.png|unknown|P8 (EBON)
-|light|reflections|character|19|Anakin Skywalker, Tested by the Jedi Council|/missing_image.png|unknown|P9 (EBON)
-|light|reflections|character|20|Padmé Naberrie, Loyal Handmaiden|/missing_image.png|unknown|P10 (EBON)
-|light|reflections|character|21|Captain Panaka, Royal Defender|/missing_image.png|unknown|P11 (EBON)
-|light|reflections|character|22|Yoda, Wise Jedi|/missing_image.png|unknown|P12 (EBON)
-|light|reflections|character|23|R2-D2, Starship Maintenance Droid|/missing_image.png|unknown|P13 (EBON)
-|light|reflections|character|24|Yoda, Jedi Instructor|/reflections/light/yodaboonta.jpg|unknown|2 (BEP)
-|light|reflections|character|25|C-3PO, Human-Cyborg Relations Droid|/reflections/light/c3poboonta.jpg|unknown|3 (BEP)
-|light|reflections|character|26|Jira, Pallie Vendor|/reflections/light/jiraboonta.jpg|unknown|4 (BEP)
-|light|reflections|character|27|Kitster, Anakin's Friend|/reflections/light/kitsterboonta.jpg|unknown|5 (BEP)
-|light|reflections|character|28|Wald, Anakin's Friend|/reflections/light/waldboonta.jpg|unknown|6 (BEP)
-|light|reflections|character|29|Amidala's Starship, Queen's Transport|/reflections/light/amidalasstarshipboonta.jpg|unknown|30 (BEP)
-|dark|reflections|character|30|Watto, Slave Owner|/missing_image.png|unknown|74 (MDM)
-|dark|reflections|character|31|Aurra Sing, Bounty Hunter|/missing_image.png|unknown|75 (MDM)
-|dark|reflections|character|32|Trade Federation Tank, Armored Division|/missing_image.png|unknown|88 (MDM)
-|dark|reflections|character|33|Sebulba, Podracer Pilot|/missing_image.png|unknown|73 (TJC)
-|dark|reflections|character|34|Destroyer Droid Squad, Defense Division|/missing_image.png|unknown|78 (TJC)
-|dark|reflections|character|35|Battle Droid Squad, Escort Unit|/missing_image.png|unknown|79 (TJC)
-|dark|reflections|character|36|Trade Federation Tank, Assault Division|/missing_image.png|unknown|80 (TJC)
-|dark|reflections|character|37|Darth Sidious, Sith Manipulator|/missing_image.png|unknown|72 (BON)
-|dark|reflections|character|38|Sebulba, Dangerous Podracer Pilot|/missing_image.png|unknown|73 (BON)
-|dark|reflections|character|39|Watto, Toydarian Gambler|/missing_image.png|unknown|74 (BON)
-|dark|reflections|character|40|Jabba The Hutt, Crime Lord|/missing_image.png|unknown|76 (BON)
-|dark|reflections|character|41|Rune Haako, Neimoidian Deputy|/missing_image.png|unknown|78 (BON)
-|dark|reflections|character|42|Darth Maul, Sith Assassin|/missing_image.png|unknown|P4 (EMDM)
-|dark|reflections|character|43|Sebulba, Champion Podracer Pilot|/missing_image.png|unknown|P5 (EMDM)
-|dark|reflections|character|44|Trade Federation Tank, Assault Leader|/missing_image.png|unknown|P6 (EMDM)
-|dark|reflections|character|45|Darth Maul, Student of the Dark Side|/missing_image.png|unknown|31 (DOTF)
-|dark|reflections|character|46|Darth Sidious, Master of the Dark Side|/missing_image.png|unknown|32 (DOTF)
-|dark|reflections|character|47|Aurra Sing, Trophy Collector|/missing_image.png|unknown|33 (DOTF)
-|dark|reflections|character|48|Darth Sidious, The Phantom Menace|/missing_image.png|unknown|P14 (EBON)
-|dark|reflections|character|49|Watto, Risk Taker|/missing_image.png|unknown|P15 (EBON)
-|dark|reflections|character|50|Aurra Sing, Scoundrel|/missing_image.png|unknown|P16 (EBON)
-|dark|reflections|character|51|Jabba The Hutt, Tatooine Tyrant|/missing_image.png|unknown|P17 (EBON)
-|dark|reflections|character|52|Nute Gunray, Neimoidian Bureaucrat|/missing_image.png|unknown|P18 (EBON)
-|dark|reflections|character|53|Rune Haako, Neimoidian Lieutenant|/missing_image.png|unknown|P19 (EBON)
-|dark|reflections|character|54|Watto, Podrace Sponsor|/reflections/dark/wattoboonta.jpg|unknown|32 (BEP)
-|dark|reflections|character|55|Aurra Sing, Formidable Adversary|/reflections/dark/aurrasingboonta.jpg|unknown|33 (BEP)
-|dark|reflections|character|56|Jabba The Hutt, O Grandio Lust|/reflections/dark/jabbathehuttboonta.jpg|unknown|34 (BEP)
-|dark|reflections|character|57|TC-14, Protocol Droid|/reflections/dark/tc14boonta.jpg|unknown|35 (BEP)
-|dark|reflections|character|58|Orr'UrRuuR'R, Tusken Raider Leader|/reflections/dark/orrurruurrboonta.jpg|unknown|36 (BEP)
-|dark|reflections|character|59|Viceroy's Battleship, Trade Federation Transport|/reflections/dark/viceroysbattleshipboonta.jpg|unknown|60 (BEP)
-|light|reflections|armedanddangerous|60|Jar Jar Binks, Bombad Gungan General & Jar Jar Binks' Electropole|/reflections/light/jarjarbinksarmed.jpg|unknown|A1
-|light|reflections|armedanddangerous|61|Boss Nass, Gungan Chief & Fambaa|/reflections/light/bossnassarmed.jpg|unknown|A2
-|light|reflections|armedanddangerous|62|Adi Gallia, Corellian Jedi Master & Adi Gallia's Lightsaber|/reflections/light/adigalliaarmed.jpg|unknown|A3
-|light|reflections|armedanddangerous|63|Eeth Koth, Zabrak Jedi Master & Eeth Koth's Lightsaber|/reflections/light/eethkotharmed.jpg|unknown|A4
-|light|reflections|armedanddangerous|64|Ki-Adi-Mundi, Cerean Jedi Knight & Jedi Lightsaber, Constructed by Ki-Adi-Mundi|/reflections/light/kiadimundiarmed.jpg|unknown|A5
-|light|reflections|armedanddangerous|65|Valorum, Supreme Chancellor & Planetary Shuttle|/reflections/light/valorumarmed.jpg|unknown|A6
-|dark|reflections|armedanddangerous|66|Aurra Sing, Trophy Collector & Jedi Lightsaber, Stolen by Aurra Sing|/reflections/dark/aurrasingarmed.jpg|unknown|A7
-|dark|reflections|armedanddangerous|67|Nute Gunray, Neimoidian Viceroy & Neimoidian Viewscreen|/reflections/dark/nutegunrayarmed.jpg|unknown|A8
-|dark|reflections|armedanddangerous|68|OOM-9, Battle Droid Commander & STAP|/reflections/dark/owo1armed.jpg|unknown|A10
-|dark|reflections|armedanddangerous|69|P-59, Destroyer Droid Commander & Multi Troop Transport|/reflections/dark/p59armed.jpg|unknown|A11
-|dark|reflections|armedanddangerous|70|Toonbuck Toora, Senator & Coruscant Taxi|/reflections/dark/toonbucktooraarmed.jpg|unknown|A12
-|light|reflections|combobattle|71|Are You An Angel? & I've Been Trained In Defense|/reflections/light/areyouanangelcombobattle.jpg|unknown|C1
-|light|reflections|combobattle|72|Brave Little Droid & Counterparts|/reflections/light/bravelittledroidcombobattle.jpg|unknown|C2
-|light|reflections|combobattle|73|Celebration & Gungan Mounted Trooops|/reflections/light/celebrationcombobattle.jpg|unknown|C3
-|light|reflections|combobattle|74|Enough Of This Pretense & I Will Not Cooperate|/reflections/light/enoughofthispretensecomboba.jpg|unknown|C4
-|light|reflections|combobattle|75|Fear Attracts The Fearful & How Wude!|/reflections/light/fearattractsthefearfulcombo.jpg|unknown|C5
-|light|reflections|combobattle|76|I Have A Bad Feeling About This & NOOOOOOOOOOO!|/reflections/light/ihaveabadfeelingaboutthiscombo.jpg|unknown|C6
-|light|reflections|combobattle|77|Jedi Force Push & We're Not In Trouble Yet|/reflections/light/jediforcepushcombobattle.jpg|unknown|C7
-|dark|reflections|combobattle|78|A Thousand Terrible Things & We Are Sending All Troops|/reflections/dark/athousandterriblethingscomb.jpg|unknown|C8
-|dark|reflections|combobattle|79|At Last We Will Have Revenge & Sith Force Push|/reflections/dark/atlastwewillhaverevengecomb.jpg|unknown|C9
-|dark|reflections|combobattle|80|Battle Droid Patrol & In Complete Control|/reflections/dark/battledroidpatrolcombobattle.jpg|unknown|C10
-|dark|reflections|combobattle|81|Boonta Eve Podrace & Kaa Bazza Kundee Hodrudda!|/reflections/dark/boontaevepodracecombobattle.jpg|unknown|C11
-|dark|reflections|combobattle|82|Podrace Preparation & Yoka To Bantha Poodoo|/reflections/dark/podracepreparationcombobatt.jpg|unknown|C12
-|dark|reflections|combobattle|83|Switch To Bio & Your Little Insurrection Is At An End|/reflections/dark/switchtobiocombobattle.jpg|unknown|C13
-|dark|reflections|combobattle|84|The Phantom Menace & Use Caution|/reflections/dark/thephantommenacecombobattle.jpg|unknown|C14
-|light|reflections|doubleimpact|85|Dos Mackineeks No Comen Here! & Bombad General|/reflections/light/dosmackineeksnocomenheredoubleimpact.jpg|unknown|
-|light|reflections|doubleimpact|86|Gunga City & Gungan Energy Shield|/reflections/light/gungacitydoubleimpact.jpg|unknown|
-|light|reflections|doubleimpact|87|The Queen's Plan & Naboo Royal Security Forces|/reflections/light/thequeensplandoubleimpact.jpg|unknown|
-|light|reflections|doubleimpact|88|The Might Of The Republic & Senate Guard|/reflections/light/themightoftherepublicdoubleimpact.jpg|unknown|
-|light|reflections|doubleimpact|89|The Negotiations Were Short & Qui-Gon's Final Stand|/reflections/light/thenegotiationswereshortdoubleimpact.jpg|unknown|
-|light|reflections|doubleimpact|90|Wisdom Of The Council & Jedi Training|/reflections/light/wisdomofthecouncildoubleimpact.jpg|unknown|
-|light|reflections|doubleimpact|91|Yousa Guys Bombad! & Uh-Oh!|/reflections/light/yousaguysbombaddoubleimpact.jpg|unknown|
-|dark|reflections|doubleimpact|92|Grueling Contest & Da Dug Chaaa!|/reflections/dark/gruelingcontestdoubleimpact.jpg|unknown|
-|dark|reflections|doubleimpact|93|Let Them Make The First Move & Very Unusual|/reflections/dark/letthemmakethefirstmovedoubleimpact.jpg|unknown|
-|dark|reflections|doubleimpact|94|Now There Are Two Of Them & The Duel Begins|/reflections/dark/nowtherearetwoofthemdoubleimpact.jpg|unknown|
-|dark|reflections|doubleimpact|95|Opee Sea Killer & To The Death|/reflections/dark/opeeseakillerdoubleimpact.jpg|unknown|
-|dark|reflections|doubleimpact|96|Starfighter Screen & Blockade|/reflections/dark/starfighterscreendoubleimpact.jpg|unknown|
-|dark|reflections|doubleimpact|97|We Have Them On The Run & Where Are Those Droidekas?|/reflections/dark/wehavethemontherundoubleimpact.jpg|unknown|
-|dark|reflections|doubleimpact|98|You Have Been Well Trained & After Her!|/reflections/dark/youhavebeenwelltraineddoubleimpact.jpg|unknown|
+|light|reflections|character|1|Queen Amidala, Royal Leader|/reflections/light/009-queenamidalaroyalleader.gif|rare|9 (MDM)
+|light|reflections|character|2|Yoda, Jedi Master|/reflections/light/010-yodajedimaster.gif|rare|10 (MDM)
+|light|reflections|character|3|Anakin Skywalker, Child of Prophecy|/reflections/light/004-anakinskywalkerchildof.gif|rare|4 (TJC)
+|light|reflections|character|4|Queen Amidala, Voice of Her People|/reflections/light/009-queenamidalavoiceofher.gif|rare|9 (TJC)
+|light|reflections|character|5|Anakin Skywalker, Padawan|/reflections/light/004-anakinskywalkerpadawan.gif|rare|4 (BON)
+|light|reflections|character|6|Mace Windu, Jedi Speaker|/reflections/light/007-macewindujedispeaker.gif|rare|7 (BON)
+|light|reflections|character|7|Qui-Gon Jinn, Jedi Protector|/reflections/light/P1-quigonjinn.jpg|rare|P1 (EMDM)
+|light|reflections|character|8|Mace Windu, Jedi Warrior|/reflections/light/P2-macewindu.jpg|rare|P2 (EMDM)
+|light|reflections|character|9|Queen Amidala, Cunning Warrior|/reflections/light/P3-queenamidala.jpg|rare|P3 (EMDM)
+|light|reflections|character|10|Obi-Wan Kenobi, Jedi Student|/reflections/light/01-obiwankenobi.gif|rare|1 (DOTF)
+|light|reflections|character|11|Qui-Gon Jinn, Jedi Mentor|/reflections/light/02-quigonjinnjedimentor.gif|rare|2 (DOTF)
+|light|reflections|character|12|Anakin Skywalker, Rookie Pilot|/reflections/light/03-anakinskywalker.gif|rare|3 (DOTF)
+|light|reflections|character|13|Captain Panaka, Security Commander|/reflections/light/04-captainpanaka.gif|rare|4 (DOTF)
+|light|reflections|character|14|Mace Windu, Jedi Councilor|/reflections/light/05-macewindu.gif|rare|5 (DOTF)
+|light|reflections|character|15|Queen Amidala, Young Leader|/reflections/light/06-queenamidala.gif|rare|6 (DOTF)
+|light|reflections|character|16|Yoda, Jedi Philosopher|/reflections/light/07-yodajediphilosopher.gif|rare|7 (DOTF)
+|light|reflections|character|17|Shmi Skywalker, Anakin's Mother|/reflections/light/P7-shmiskywalker.jpg|rare|P7 (PREM)
+|light|reflections|character|18|Obi-Wan Kenobi, Jedi Avenger|/reflections/light/P08-obiwankenobi.gif|rare|P8 (EBON)
+|light|reflections|character|19|Anakin Skywalker, Tested by the Jedi Council|/reflections/light/P09-anakinskywalker.gif|rare|P9 (EBON)
+|light|reflections|character|20|Padmé Naberrie, Loyal Handmaiden|/reflections/light/P10-padmenaberrie.gif|rare|P10 (EBON)
+|light|reflections|character|21|Captain Panaka, Royal Defender|/reflections/light/P11-captainpanaka.gif|rare|P11 (EBON)
+|light|reflections|character|22|Yoda, Wise Jedi|/reflections/light/P12-yoda.gif|rare|P12 (EBON)
+|light|reflections|character|23|R2-D2, Starship Maintenance Droid|/reflections/light/P13-r2d2.gif|rare|P13 (EBON)
+|light|reflections|character|24|Yoda, Jedi Instructor|/reflections/light/yodaboonta.jpg|rare|2 (BEP)
+|light|reflections|character|25|C-3PO, Human-Cyborg Relations Droid|/reflections/light/c3poboonta.jpg|rare|3 (BEP)
+|light|reflections|character|26|Jira, Pallie Vendor|/reflections/light/jiraboonta.jpg|rare|4 (BEP)
+|light|reflections|character|27|Kitster, Anakin's Friend|/reflections/light/kitsterboonta.jpg|rare|5 (BEP)
+|light|reflections|character|28|Wald, Anakin's Friend|/reflections/light/waldboonta.jpg|rare|6 (BEP)
+|light|reflections|character|29|Amidala's Starship, Queen's Transport|/reflections/light/amidalasstarshipboonta.jpg|rare|30 (BEP)
+|dark|reflections|character|30|Watto, Slave Owner|/reflections/light/amidalasstarshipboonta.jpg|uncommon|74 (MDM)
+|dark|reflections|character|31|Aurra Sing, Bounty Hunter|/reflections/light/amidalasstarshipboonta.jpg|uncommon|75 (MDM)
+|dark|reflections|character|32|Trade Federation Tank, Armored Division|/reflections/light/amidalasstarshipboonta.jpg|uncommon|88 (MDM)
+|dark|reflections|character|33|Sebulba, Podracer Pilot|/reflections/light/amidalasstarshipboonta.jpg|uncommon|73 (TJC)
+|dark|reflections|character|34|Destroyer Droid Squad, Defense Division|/reflections/light/amidalasstarshipboonta.jpg|uncommon|78 (TJC)
+|dark|reflections|character|35|Battle Droid Squad, Escort Unit|/reflections/light/amidalasstarshipboonta.jpg|uncommon|79 (TJC)
+|dark|reflections|character|36|Trade Federation Tank, Assault Division|/reflections/light/amidalasstarshipboonta.jpg|uncommon|80 (TJC)
+|dark|reflections|character|37|Darth Sidious, Sith Manipulator|/reflections/light/amidalasstarshipboonta.jpg|uncommon|72 (BON)
+|dark|reflections|character|38|Sebulba, Dangerous Podracer Pilot|/reflections/light/amidalasstarshipboonta.jpg|uncommon|73 (BON)
+|dark|reflections|character|39|Watto, Toydarian Gambler|/reflections/light/amidalasstarshipboonta.jpg|uncommon|74 (BON)
+|dark|reflections|character|40|Jabba The Hutt, Crime Lord|/reflections/light/amidalasstarshipboonta.jpg|uncommon|76 (BON)
+|dark|reflections|character|41|Rune Haako, Neimoidian Deputy|/reflections/light/amidalasstarshipboonta.jpg|uncommon|78 (BON)
+|dark|reflections|character|42|Darth Maul, Sith Assassin|/reflections/dark/P4-darthmaul.jpg|uncommon|P4 (EMDM)
+|dark|reflections|character|43|Sebulba, Champion Podracer Pilot|/reflections/dark/P5-sebulba.jpg|uncommon|P5 (EMDM)
+|dark|reflections|character|44|Trade Federation Tank, Assault Leader|/reflections/dark/P6-tradefederationtank.jpg|rare|P6 (EMDM)
+|dark|reflections|character|45|Darth Maul, Student of the Dark Side|/reflections/light/amidalasstarshipboonta.jpg|uncommon|31 (DOTF)
+|dark|reflections|character|46|Darth Sidious, Master of the Dark Side|/reflections/light/amidalasstarshipboonta.jpg|uncommon|32 (DOTF)
+|dark|reflections|character|47|Aurra Sing, Trophy Collector|/reflections/light/amidalasstarshipboonta.jpg|uncommon|33 (DOTF)
+|dark|reflections|character|48|Darth Sidious, The Phantom Menace|/reflections/dark/P14-darthsidious.gif|uncommon|P14 (EBON)
+|dark|reflections|character|49|Watto, Risk Taker|/reflections/dark/P15-watto.gif|uncommon|P15 (EBON)
+|dark|reflections|character|50|Aurra Sing, Scoundrel|/reflections/dark/P16-aurrasing.gif|uncommon|P16 (EBON)
+|dark|reflections|character|51|Jabba The Hutt, Tatooine Tyrant|/reflections/dark/P17-jabbathehutt.gif|uncommon|P17 (EBON)
+|dark|reflections|character|52|Nute Gunray, Neimoidian Bureaucrat|/reflections/dark/P18-nutegunray.gif|uncommon|P18 (EBON)
+|dark|reflections|character|53|Rune Haako, Neimoidian Lieutenant|/reflections/dark/P19-runehaako.gif|uncommon|P19 (EBON)
+|dark|reflections|character|54|Watto, Podrace Sponsor|/reflections/dark/wattoboonta.jpg|uncommon|32 (BEP)
+|dark|reflections|character|55|Aurra Sing, Formidable Adversary|/reflections/dark/aurrasingboonta.jpg|uncommon|33 (BEP)
+|dark|reflections|character|56|Jabba The Hutt, O Grandio Lust|/reflections/dark/jabbathehuttboonta.jpg|uncommon|34 (BEP)
+|dark|reflections|character|57|TC-14, Protocol Droid|/reflections/dark/tc14boonta.jpg|uncommon|35 (BEP)
+|dark|reflections|character|58|Orr'UrRuuR'R, Tusken Raider Leader|/reflections/dark/orrurruurrboonta.jpg|uncommon|36 (BEP)
+|dark|reflections|character|59|Viceroy's Battleship, Trade Federation Transport|/reflections/dark/viceroysbattleshipboonta.jpg|uncommon|60 (BEP)
+|light|reflections|armedanddangerous|60|Jar Jar Binks, Bombad Gungan General & Jar Jar Binks' Electropole|/reflections/light/jarjarbinksarmed.jpg|rare|A1
+|light|reflections|armedanddangerous|61|Boss Nass, Gungan Chief & Fambaa|/reflections/light/bossnassarmed.jpg|rare|A2
+|light|reflections|armedanddangerous|62|Adi Gallia, Corellian Jedi Master & Adi Gallia's Lightsaber|/reflections/light/adigalliaarmed.jpg|rare|A3
+|light|reflections|armedanddangerous|63|Eeth Koth, Zabrak Jedi Master & Eeth Koth's Lightsaber|/reflections/light/eethkotharmed.jpg|rare|A4
+|light|reflections|armedanddangerous|64|Ki-Adi-Mundi, Cerean Jedi Knight & Jedi Lightsaber, Constructed by Ki-Adi-Mundi|/reflections/light/kiadimundiarmed.jpg|rare|A5
+|light|reflections|armedanddangerous|65|Valorum, Supreme Chancellor & Planetary Shuttle|/reflections/light/valorumarmed.jpg|rare|A6
+|dark|reflections|armedanddangerous|66|Aurra Sing, Trophy Collector & Jedi Lightsaber, Stolen by Aurra Sing|/reflections/dark/aurrasingarmed.jpg|uncommon|A7
+|dark|reflections|armedanddangerous|67|Nute Gunray, Neimoidian Viceroy & Neimoidian Viewscreen|/reflections/dark/nutegunrayarmed.jpg|uncommon|A8
+|dark|reflections|armedanddangerous|68|OOM-9, Battle Droid Commander & STAP|/reflections/dark/owo1armed.jpg|uncommon|A10
+|dark|reflections|armedanddangerous|69|P-59, Destroyer Droid Commander & Multi Troop Transport|/reflections/dark/p59armed.jpg|uncommon|A11
+|dark|reflections|armedanddangerous|70|Toonbuck Toora, Senator & Coruscant Taxi|/reflections/dark/toonbucktooraarmed.jpg|uncommon|A12
+|light|reflections|combobattle|71|Are You An Angel? & I've Been Trained In Defense|/reflections/light/areyouanangelcombobattle.jpg|rare|C1
+|light|reflections|combobattle|72|Brave Little Droid & Counterparts|/reflections/light/bravelittledroidcombobattle.jpg|rare|C2
+|light|reflections|combobattle|73|Celebration & Gungan Mounted Trooops|/reflections/light/celebrationcombobattle.jpg|rare|C3
+|light|reflections|combobattle|74|Enough Of This Pretense & I Will Not Cooperate|/reflections/light/enoughofthispretensecomboba.jpg|rare|C4
+|light|reflections|combobattle|75|Fear Attracts The Fearful & How Wude!|/reflections/light/fearattractsthefearfulcombo.jpg|rare|C5
+|light|reflections|combobattle|76|I Have A Bad Feeling About This & NOOOOOOOOOOO!|/reflections/light/ihaveabadfeelingaboutthiscombo.jpg|rare|C6
+|light|reflections|combobattle|77|Jedi Force Push & We're Not In Trouble Yet|/reflections/light/jediforcepushcombobattle.jpg|rare|C7
+|dark|reflections|combobattle|78|A Thousand Terrible Things & We Are Sending All Troops|/reflections/dark/athousandterriblethingscomb.jpg|uncommon|C8
+|dark|reflections|combobattle|79|At Last We Will Have Revenge & Sith Force Push|/reflections/dark/atlastwewillhaverevengecomb.jpg|uncommon|C9
+|dark|reflections|combobattle|80|Battle Droid Patrol & In Complete Control|/reflections/dark/battledroidpatrolcombobattle.jpg|uncommon|C10
+|dark|reflections|combobattle|81|Boonta Eve Podrace & Kaa Bazza Kundee Hodrudda!|/reflections/dark/boontaevepodracecombobattle.jpg|uncommon|C11
+|dark|reflections|combobattle|82|Podrace Preparation & Yoka To Bantha Poodoo|/reflections/dark/podracepreparationcombobatt.jpg|uncommon|C12
+|dark|reflections|combobattle|83|Switch To Bio & Your Little Insurrection Is At An End|/reflections/dark/switchtobiocombobattle.jpg|uncommon|C13
+|dark|reflections|combobattle|84|The Phantom Menace & Use Caution|/reflections/dark/thephantommenacecombobattle.jpg|uncommon|C14
+|light|reflections|doubleimpact|85|Dos Mackineeks No Comen Here! & Bombad General|/reflections/light/dosmackineeksnocomenheredoubleimpact.jpg|rare|54 (JC) and 59 (GOOD)
+|light|reflections|doubleimpact|86|Gunga City & Gungan Energy Shield|/reflections/light/gungacitydoubleimpact.jpg|uncommon|47 (BON) and 23 (DOTF)
+|light|reflections|doubleimpact|87|The Queen's Plan & Naboo Royal Security Forces|/reflections/light/thequeensplandoubleimpact.jpg|uncommon|62 (MODM) and 27 (DOTF)
+|light|reflections|doubleimpact|88|The Might Of The Republic & Senate Guard|/reflections/light/themightoftherepublicdoubleimpact.jpg|rare|61 (JC) and 29 (DOTF)
+|light|reflections|doubleimpact|89|The Negotiations Were Short & Qui-Gon's Final Stand|/reflections/light/thenegotiationswereshortdoubleimpact.jpg|rare|61 (MODM) and 19 (DOTF)
+|light|reflections|doubleimpact|90|Wisdom Of The Council & Jedi Training|/reflections/light/wisdomofthecouncildoubleimpact.jpg|rare|64 (JC) and 26 (DOTF)
+|light|reflections|doubleimpact|91|Yousa Guys Bombad! & Uh-Oh!|/reflections/light/yousaguysbombaddoubleimpact.jpg|rare|64 (MODM) and 62 (GOOD)
+|dark|reflections|doubleimpact|92|Grueling Contest & Da Dug Chaaa!|/reflections/dark/gruelingcontestdoubleimpact.jpg|uncommon|124 (MODM) and 130 (BON)
+|dark|reflections|doubleimpact|93|Let Them Make The First Move & Very Unusual|/reflections/dark/letthemmakethefirstmovedoubleimpact.jpg|uncommon|122 (JC) and 129 (JC)
+|dark|reflections|doubleimpact|94|Now There Are Two Of Them & The Duel Begins|/reflections/dark/nowtherearetwoofthemdoubleimpact.jpg|uncommon|124 (BON) and 57 (DOTF)
+|dark|reflections|doubleimpact|95|Opee Sea Killer & To The Death|/reflections/dark/opeeseakillerdoubleimpact.jpg|uncommon|127 (MODM) and 53 (DOTF)
+|dark|reflections|doubleimpact|96|Starfighter Screen & Blockade|/reflections/dark/starfighterscreendoubleimpact.jpg|uncommon|52 (DOTF) and 55 (DOTF)
+|dark|reflections|doubleimpact|97|We Have Them On The Run & Where Are Those Droidekas?|/reflections/dark/wehavethemontherundoubleimpact.jpg|uncommon|132 (JC) and 59 (DOTF)
+|dark|reflections|doubleimpact|98|You Have Been Well Trained & After Her!|/reflections/dark/youhavebeenwelltraineddoubleimpact.jpg|uncommon|134 (MODM) and 129 (BON)

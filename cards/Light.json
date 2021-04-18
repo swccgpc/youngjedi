@@ -7486,7 +7486,7 @@
       "id": 7,
       "gempId": "7_1",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7496,7 +7496,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Royal Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/009-queenamidalaroyalleader.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7515,7 +7515,7 @@
       "id": 7,
       "gempId": "7_2",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7525,7 +7525,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Jedi Master",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/010-yodajedimaster.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7544,7 +7544,7 @@
       "id": 7,
       "gempId": "7_3",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7554,7 +7554,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Child of Prophecy",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/004-anakinskywalkerchildof.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7573,7 +7573,7 @@
       "id": 7,
       "gempId": "7_4",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7583,7 +7583,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Voice of Her People",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/009-queenamidalavoiceofher.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7602,7 +7602,7 @@
       "id": 7,
       "gempId": "7_5",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7612,7 +7612,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Padawan",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/004-anakinskywalkerpadawan.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7631,7 +7631,7 @@
       "id": 7,
       "gempId": "7_6",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7641,7 +7641,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Jedi Speaker",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/007-macewindujedispeaker.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7660,7 +7660,7 @@
       "id": 7,
       "gempId": "7_7",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7670,7 +7670,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon Jinn, Jedi Protector",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P1-quigonjinn.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7689,7 +7689,7 @@
       "id": 7,
       "gempId": "7_8",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7699,7 +7699,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Jedi Warrior",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P2-macewindu.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7718,7 +7718,7 @@
       "id": 7,
       "gempId": "7_9",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7728,7 +7728,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Cunning Warrior",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P3-queenamidala.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7747,7 +7747,7 @@
       "id": 7,
       "gempId": "7_10",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7757,7 +7757,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Student",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/01-obiwankenobi.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7776,7 +7776,7 @@
       "id": 7,
       "gempId": "7_11",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7786,7 +7786,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon Jinn, Jedi Mentor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/02-quigonjinnjedimentor.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7805,7 +7805,7 @@
       "id": 7,
       "gempId": "7_12",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7815,7 +7815,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Rookie Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/03-anakinskywalker.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7834,7 +7834,7 @@
       "id": 7,
       "gempId": "7_13",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7844,7 +7844,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Panaka, Security Commander",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/04-captainpanaka.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7863,7 +7863,7 @@
       "id": 7,
       "gempId": "7_14",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7873,7 +7873,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Jedi Councilor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/05-macewindu.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7892,7 +7892,7 @@
       "id": 7,
       "gempId": "7_15",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7902,7 +7902,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Young Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/06-queenamidala.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7921,7 +7921,7 @@
       "id": 7,
       "gempId": "7_16",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7931,7 +7931,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Jedi Philosopher",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/07-yodajediphilosopher.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7950,7 +7950,7 @@
       "id": 7,
       "gempId": "7_17",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7960,7 +7960,7 @@
       "foil": "false",
       "front": {
         "title": "Shmi Skywalker, Anakin's Mother",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P7-shmiskywalker.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7979,7 +7979,7 @@
       "id": 7,
       "gempId": "7_18",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -7989,7 +7989,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Avenger",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P08-obiwankenobi.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8008,7 +8008,7 @@
       "id": 7,
       "gempId": "7_19",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8018,7 +8018,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Tested by the Jedi Council",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P09-anakinskywalker.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8037,7 +8037,7 @@
       "id": 7,
       "gempId": "7_20",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8047,7 +8047,7 @@
       "foil": "false",
       "front": {
         "title": "Padm\u00e9 Naberrie, Loyal Handmaiden",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P10-padmenaberrie.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8066,7 +8066,7 @@
       "id": 7,
       "gempId": "7_21",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8076,7 +8076,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Panaka, Royal Defender",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P11-captainpanaka.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8095,7 +8095,7 @@
       "id": 7,
       "gempId": "7_22",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8105,7 +8105,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Wise Jedi",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P12-yoda.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8124,7 +8124,7 @@
       "id": 7,
       "gempId": "7_23",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8134,7 +8134,7 @@
       "foil": "false",
       "front": {
         "title": "R2-D2, Starship Maintenance Droid",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/P13-r2d2.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8153,7 +8153,7 @@
       "id": 7,
       "gempId": "7_24",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8182,7 +8182,7 @@
       "id": 7,
       "gempId": "7_25",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8211,7 +8211,7 @@
       "id": 7,
       "gempId": "7_26",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8240,7 +8240,7 @@
       "id": 7,
       "gempId": "7_27",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8269,7 +8269,7 @@
       "id": 7,
       "gempId": "7_28",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8298,7 +8298,7 @@
       "id": 7,
       "gempId": "7_29",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8327,7 +8327,7 @@
       "id": 7,
       "gempId": "7_60",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8356,7 +8356,7 @@
       "id": 7,
       "gempId": "7_61",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8385,7 +8385,7 @@
       "id": 7,
       "gempId": "7_62",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8414,7 +8414,7 @@
       "id": 7,
       "gempId": "7_63",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8443,7 +8443,7 @@
       "id": 7,
       "gempId": "7_64",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8472,7 +8472,7 @@
       "id": 7,
       "gempId": "7_65",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8501,7 +8501,7 @@
       "id": 7,
       "gempId": "7_71",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8530,7 +8530,7 @@
       "id": 7,
       "gempId": "7_72",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8559,7 +8559,7 @@
       "id": 7,
       "gempId": "7_73",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8588,7 +8588,7 @@
       "id": 7,
       "gempId": "7_74",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8617,7 +8617,7 @@
       "id": 7,
       "gempId": "7_75",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8646,7 +8646,7 @@
       "id": 7,
       "gempId": "7_76",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8675,7 +8675,7 @@
       "id": 7,
       "gempId": "7_77",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8704,7 +8704,7 @@
       "id": 7,
       "gempId": "7_85",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8733,7 +8733,7 @@
       "id": 7,
       "gempId": "7_86",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "uncommon",
       "set": 7,
       "printings": [
         {
@@ -8762,7 +8762,7 @@
       "id": 7,
       "gempId": "7_87",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "uncommon",
       "set": 7,
       "printings": [
         {
@@ -8791,7 +8791,7 @@
       "id": 7,
       "gempId": "7_88",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8820,7 +8820,7 @@
       "id": 7,
       "gempId": "7_89",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8849,7 +8849,7 @@
       "id": 7,
       "gempId": "7_90",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
@@ -8878,7 +8878,7 @@
       "id": 7,
       "gempId": "7_91",
       "side": "Light",
-      "rarity": "unknown",
+      "rarity": "rare",
       "set": 7,
       "printings": [
         {
