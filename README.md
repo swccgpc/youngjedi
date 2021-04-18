@@ -10,7 +10,7 @@ Young Jedi Cards
 
 ```bash
 cd cards
-bash csv2json.sh
+./csv2json.py
 ```
 
 
