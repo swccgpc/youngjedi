@@ -536,7 +536,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Officer, Battle Planner",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/19naboofficerbattleplanner.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -565,7 +565,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Security, Guard",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/20naboosecurityguard.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4538,7 +4538,7 @@
       "foil": "false",
       "front": {
         "title": "Sach\u00e9, Handmaiden",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/17sachehandmaiden.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4683,7 +4683,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Security, Trooper",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/22naboosecuritytrooper.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6626,7 +6626,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Jedi Philosopher",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/yodajediphilosopher.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6974,7 +6974,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon's Final Stand",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/quigonnsfinalstand.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",

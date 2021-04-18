@@ -82,14 +82,10 @@ for i in csv_files:
         print('    ** [' + cardid + "]:\t\"" + name + "\"")
 
         missing_images = [
-          "/menaceofdarthmaul/light/19naboofficerbattleplanner.gif",
-          "/menaceofdarthmaul/light/20nabooosecurityguard.gif",
-          "/battleofnaboo/light/17sachehandmaiden.gif",
-          "/battleofnaboo/light/22naboosecuritytrooper.gif",
-          "/duelofthefates/dark/reynovaca.gif",
-          "/duelofthefates/light/yoda.gif",
-          "/duelofthefates/light/quigonsfinalstand.gif",
-          "/reflections/dark/tc14boonta.jpg",
+          #"/menaceofdarthmaul/light/20naboosecurityguard.gif",
+          #"/duelofthefates/dark/raynovaca.gif",
+          #"/duelofthefates/light/yodajediphilosopher.gif",
+          #"/duelofthefates/light/quigonnsfinalstand.gif",
           ]
 
         if (image in missing_images):
