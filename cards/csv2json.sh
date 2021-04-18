@@ -3,6 +3,8 @@
 
 import csv
 import json
+import os.path
+from pathlib import Path
 
 csv_files = {
   1: {"name":"menace of darth maul",          "abbr":"DM",  "csv":"menaceofdarthmaul/index.csv"},
@@ -78,6 +80,37 @@ for i in csv_files:
 
         #print('"' + release + "\"\t\"" + cardtype + "\"\t\"" + cardid + "\"\t\"" + name + "\"\t\"" + image + "\"\t\"" + rarity + '"')
         print('    ** [' + cardid + "]:\t\"" + name + "\"")
+
+        missing_images = [
+          "/menaceofdarthmaul/light/19naboofficerbattleplanner.gif",
+          "/menaceofdarthmaul/light/20nabooosecurityguard.gif",
+          "/battleofnaboo/light/17sachehandmaiden.gif",
+          "/battleofnaboo/light/22naboosecuritytrooper.gif",
+          "/duelofthefates/dark/reynovaca.gif",
+          "/duelofthefates/light/yoda.gif",
+          "/duelofthefates/light/quigonsfinalstand.gif",
+          "/reflections/dark/tc14boonta.jpg",
+          ]
+
+        if (image in missing_images):
+          image = "/missing_image.png"
+        elif not os.path.isfile('.'+image):
+          print('       *** Image missing: '+image)
+          image_bits        = image.split("/")
+          search_for_path  = image_bits[1] + "/" + image_bits[2]
+          search_for_image = image_bits[3][0:8] + "*"
+          print('       *** Searching in.: /'+search_for_path)
+          print('       *** For image....: '+search_for_image)
+
+          for found_image in Path(search_for_path).glob(search_for_image):
+            print('       *** Found image..: /'+str(found_image))
+          exit(1)
+          #if not os.path.isfile('.'+image):
+          #  print('       *** Image missing: .'+image)
+
+
+
+
         card = {
           "id": i,
           "gempId": str(i)+"_"+cardid,

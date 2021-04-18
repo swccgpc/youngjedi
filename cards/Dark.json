@@ -1261,7 +1261,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank Laser Cannon",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/114tradefederationtank.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/114tradefederationtanklaser.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -1860,7 +1860,7 @@
       "id": 1,
       "gempId": "1_135",
       "side": "Dark",
-      "rarity": "/menaceofdarthmaul/dark/135tatooinedesertlanding.gif",
+      "rarity": "starter set",
       "set": 1,
       "printings": [
         {
@@ -1869,8 +1869,8 @@
       ],
       "foil": "false",
       "front": {
-        "title": "Tatooine !img",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardshttps://web.archive.org/web/20040812060032im_/http://www2.decipher.com/libraryimages/youngjedi/cardsMENACEOFDARTHMAUL/dark/smdot.gif Desert Landing Site",
+        "title": "Tatooine \u2022\u00a0Desert Landing Site",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/135tatooinedesertlanding.gif",
         "type": "location",
         "subType": "",
         "destiny": "9999",
@@ -1889,7 +1889,7 @@
       "id": 1,
       "gempId": "1_136",
       "side": "Dark",
-      "rarity": "/menaceofdarthmaul/dark/136coruscantjedicouncil.gif",
+      "rarity": "starter set",
       "set": 1,
       "printings": [
         {
@@ -1898,8 +1898,8 @@
       ],
       "foil": "false",
       "front": {
-        "title": "Coruscant !img",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardshttps://web.archive.org/web/20040812060032im_/http://www2.decipher.com/libraryimages/youngjedi/cardsMENACEOFDARTHMAUL/dark/smdot.gif Jedi Council Chamber",
+        "title": "Coruscant \u2022 Jedi Council Chamber",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/136coruscantjedicouncil.gif",
         "type": "location",
         "subType": "",
         "destiny": "9999",
@@ -1918,7 +1918,7 @@
       "id": 1,
       "gempId": "1_137",
       "side": "Dark",
-      "rarity": "/menaceofdarthmaul/dark/137naboogunganswamp.gif",
+      "rarity": "starter set",
       "set": 1,
       "printings": [
         {
@@ -1927,8 +1927,8 @@
       ],
       "foil": "false",
       "front": {
-        "title": "Naboo !img",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardshttps://web.archive.org/web/20040812060032im_/http://www2.decipher.com/libraryimages/youngjedi/cardsMENACEOFDARTHMAUL/dark/smdot.gif Gungan Swamp",
+        "title": "Naboo \u2022 Gungan Swamp",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/137naboogunganswamp.gif",
         "type": "location",
         "subType": "",
         "destiny": "9999",
@@ -2073,7 +2073,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Sidious, Lord of the Sith",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/72darthsidiouslordofthe.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/72darthsidiouslordofthesith.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2305,7 +2305,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank, Assault Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/80tradefederationtankassau.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/80tradefederationtank.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2334,7 +2334,7 @@
       "foil": "false",
       "front": {
         "title": "Lott Dod, Neimoidian Senator",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/81lottdodneimodiansenator.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/81lottdodneimoidiansenator.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2508,7 +2508,7 @@
       "foil": "false",
       "front": {
         "title": "Ratts Tyerell, Podracer Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/87rattstyerellpodracer.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/87rattstyerellpodracerpilot.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2711,7 +2711,7 @@
       "foil": "false",
       "front": {
         "title": "Sith Probe Droid, Hunter Droid",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/94sithprobedroidhunter.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/94sithprobedroidhunterdroid.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2856,7 +2856,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Officer, Assault Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/99battledroidofficer.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/99battledroidofficerassault.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2914,7 +2914,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Security, Guard Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/101battledroidsecurity.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/101battledroidsecurityguard.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2943,7 +2943,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Infantry, Guard Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/102battledroidinfantry.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/102battledroidinfantryguard.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2972,7 +2972,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Officer, Guard Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/103battledroidofficer.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/103battledroidofficerguard.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -3262,7 +3262,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank Laser Cannon",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/113tradefederationtank.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/113tradefederationtanklaser.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -3291,7 +3291,7 @@
       "foil": "false",
       "front": {
         "title": "Multi Troop Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/114multitroopertransport.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/114multitrooptransport.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -3784,7 +3784,7 @@
       "foil": "false",
       "front": {
         "title": "We Are Meeting No Resistance",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/131wearemeetingno.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/131wearemeetingnoresistance.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -3871,7 +3871,7 @@
       "foil": "false",
       "front": {
         "title": "Your Little Insurrection Is At An End",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/134yourlittleinsurrectionis.htm",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/134yourlittleinsurrectionis.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -4074,7 +4074,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Maul, Dark Lord of the Sith",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/71darthmauldarklordofthesi.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/71darthmauldarklordofthesit.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4103,7 +4103,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Sidious, Sith Manipulator",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/72darthsidioussithmanipula.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/72darthsidioussithmanipulat.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4132,7 +4132,7 @@
       "foil": "false",
       "front": {
         "title": "Sebulba, Dangerous Podracer Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/73sebulbadangerouspodracer.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/73sebulbadangerouspodracerp.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4248,7 +4248,7 @@
       "foil": "false",
       "front": {
         "title": "Nute Gunray, Neimoidian Despot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/77nutegunrayneimoidiandesp.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/77nutegunrayneimoidiandespo.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4277,7 +4277,7 @@
       "foil": "false",
       "front": {
         "title": "Rune Haako, Neimoidian Deputy",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/78runehaakoneimoidiandeput.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/78runehaakoneimoidiandeputy.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4335,7 +4335,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid Squad, Guard Unit",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/80battledroidsquadguarduni.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/80battledroidsquadguardunit.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4364,7 +4364,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank, Guard Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/81tradefederationtankguard.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/81tradefederationtankguardd.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4393,7 +4393,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank, Patrol Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/82tradefederationtankpatro.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/82tradefederationtankpatrol.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4422,7 +4422,7 @@
       "foil": "false",
       "front": {
         "title": "P-59, Destroyer Droid Commander",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/83p59destroyerdroidcommand.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/83p59destroyerdroidcommande.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4480,7 +4480,7 @@
       "foil": "false",
       "front": {
         "title": "Daultay Dofine, Neimoidian Attendant",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/85daultaydofinemeimoidiana.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/85daultaydofinemeimoidianat.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4828,7 +4828,7 @@
       "foil": "false",
       "front": {
         "title": "Destroyer Droid, MTT Infantry",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/97destroyerdroismttinfantr.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/97destroyerdroismttinfantry.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4857,7 +4857,7 @@
       "foil": "false",
       "front": {
         "title": "Sith Probe Droid, Remote Tracker",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/98sithprobedroidremotetrac.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/98sithprobedroidremotetrack.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4886,7 +4886,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Pilot, Patrol Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/99battledroidpilotpatroldi.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/99battledroidpilotpatroldiv.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4915,7 +4915,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Security, Patrol Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/100battledroidsecuritypatr.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/100battledroidsecuritypatro.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4944,7 +4944,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Infantry, Patrol Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/101battledroidinfantrypatr.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/101battledroidinfantrypatro.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4973,7 +4973,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid: Officer, Patrol Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/102battledroidofficerpatro.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/102battledroidofficerpatrol.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -5234,7 +5234,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Maul's Electrobinoculars",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/111darthmaulselectrobinocu.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/111darthmaulselectrobinocul.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -5263,7 +5263,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank Laser Cannon",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/112tradefederationtanklase.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/112tradefederationtanklaser.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -5988,7 +5988,7 @@
       "foil": "false",
       "front": {
         "title": "Droid Control Ship, Trade Federation Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/137droidcontrolshiptradefe.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/137droidcontrolshiptradefed.gif",
         "type": "starship",
         "subType": "",
         "destiny": "9999",
@@ -6017,7 +6017,7 @@
       "foil": "false",
       "front": {
         "title": "Sith Infiltrator, Starfighter",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/138sithinfiltratorstarfigh.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/138sithinfiltratorstarfight.gif",
         "type": "starship",
         "subType": "",
         "destiny": "9999",
@@ -6075,7 +6075,7 @@
       "foil": "false",
       "front": {
         "title": "Battleship, Trade Federation Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/140battleshiptradefederati.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/140battleshiptradefederatio.gif",
         "type": "starship",
         "subType": "",
         "destiny": "9999",
@@ -6094,7 +6094,7 @@
       "id": 3,
       "gempId": "3_F10",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "ultra-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6104,7 +6104,7 @@
       "foil": "true",
       "front": {
         "title": "Darth Maul, Dark Lord of the Sith",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsUltra-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6123,7 +6123,7 @@
       "id": 3,
       "gempId": "3_F11",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "ultra-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6133,7 +6133,7 @@
       "foil": "true",
       "front": {
         "title": "Aurra Sing, Mercenary",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsUltra-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6152,7 +6152,7 @@
       "id": 3,
       "gempId": "3_F12",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "super-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6162,7 +6162,7 @@
       "foil": "true",
       "front": {
         "title": "Nute Gunray, Neimoidian Despot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsSuper-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6181,7 +6181,7 @@
       "id": 3,
       "gempId": "3_F13",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "super-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6191,7 +6191,7 @@
       "foil": "true",
       "front": {
         "title": "Destroyer Droid Squad, Guard Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsSuper-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6210,7 +6210,7 @@
       "id": 3,
       "gempId": "3_F14",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "super-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6220,7 +6220,7 @@
       "foil": "true",
       "front": {
         "title": "Trade Federation Tank, Guard Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsSuper-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6239,7 +6239,7 @@
       "id": 3,
       "gempId": "3_F15",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6249,7 +6249,7 @@
       "foil": "true",
       "front": {
         "title": "Battle Droid Squad, Guard Unit",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6268,7 +6268,7 @@
       "id": 3,
       "gempId": "3_F16",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6278,7 +6278,7 @@
       "foil": "true",
       "front": {
         "title": "Trade Federation Tank, Patrol Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6297,7 +6297,7 @@
       "id": 3,
       "gempId": "3_F17",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6307,7 +6307,7 @@
       "foil": "true",
       "front": {
         "title": "Darth Maul's Lightsaber",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6326,7 +6326,7 @@
       "id": 3,
       "gempId": "3_F18",
       "side": "Dark",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6336,7 +6336,7 @@
       "foil": "true",
       "front": {
         "title": "Not For A Sith",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6452,7 +6452,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Maul, Student of the Dark Side",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/darthmaul.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/darthmaul.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6481,7 +6481,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Sidious, Master of the Dark Side",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/darthsidious.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/darthsidious.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6510,7 +6510,7 @@
       "foil": "false",
       "front": {
         "title": "Aurra Sing, Trophy Collector",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/aurrasing.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/aurrasing.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6539,7 +6539,7 @@
       "foil": "false",
       "front": {
         "title": "Tey How, Neimoidian Command Officer",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/teyhow.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/teyhow.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6568,7 +6568,7 @@
       "foil": "false",
       "front": {
         "title": "OWO-1, Battle Droid Command Officer",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/owo1.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/owo1.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6597,7 +6597,7 @@
       "foil": "false",
       "front": {
         "title": "Rayno Vaca, Taxi Driver",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/reynovaca.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6626,7 +6626,7 @@
       "foil": "false",
       "front": {
         "title": "Baskol Yeesrim, Gran Senator",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/baskolyeesrim.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/baskolyeesrim.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6655,7 +6655,7 @@
       "foil": "false",
       "front": {
         "title": "Starfighter Droid, DFS-327",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/starfighterdroiddfs327.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/starfighterdroiddfs327.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6684,7 +6684,7 @@
       "foil": "false",
       "front": {
         "title": "Starfighter Droid, DFS-1104",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/starfighterdroiddfs1104.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/starfighterdroiddfs1104.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6713,7 +6713,7 @@
       "foil": "false",
       "front": {
         "title": "Starfighter Droid, DFS-1138",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/starfighterdroiddfs1138.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/starfighterdroiddfs1138.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6742,7 +6742,7 @@
       "foil": "false",
       "front": {
         "title": "Jedi Lightsaber, Stolen by Aurra Sing",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/jedilightsaber.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/jedilightsaberstolen.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -6771,7 +6771,7 @@
       "foil": "false",
       "front": {
         "title": "Coruscant Taxi",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/coruscanttaxi.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/coruscanttaxi.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -6800,7 +6800,7 @@
       "foil": "false",
       "front": {
         "title": "Neimoidian Viewscreen",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/neimoideanviewscreen.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/neimoideanviewscreen.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -6829,7 +6829,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid Patrol",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/battledroidpatrol.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/battledroidpatrol.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6858,7 +6858,7 @@
       "foil": "false",
       "front": {
         "title": "Change In Tactics",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/changeintactics.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/changeintactics.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6887,7 +6887,7 @@
       "foil": "false",
       "front": {
         "title": "Dangerous Encounter",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/dangerousencounter.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/dangerousencounter.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6916,7 +6916,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Maul Defiant",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/darthmauldefiant.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/darthmauldefiant.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6945,7 +6945,7 @@
       "foil": "false",
       "front": {
         "title": "Impossible!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/impossible.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/impossible.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6974,7 +6974,7 @@
       "foil": "false",
       "front": {
         "title": "It's A Standoff!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/itsastandoff.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/itsastandoff.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7003,7 +7003,7 @@
       "foil": "false",
       "front": {
         "title": "Mobile Assassin",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/mobileassassin.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/mobileassassin.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7032,7 +7032,7 @@
       "foil": "false",
       "front": {
         "title": "Power Of The Sith",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/powerofthesith.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/powerofthesith.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7061,7 +7061,7 @@
       "foil": "false",
       "front": {
         "title": "Starfighter Screen",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/starfighterscreen.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/starfighterscreen.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7090,7 +7090,7 @@
       "foil": "false",
       "front": {
         "title": "To The Death",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/tothedeath.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/tothedeath.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7119,7 +7119,7 @@
       "foil": "false",
       "front": {
         "title": "Use Caution",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/usecaution.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/usecaution.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7148,7 +7148,7 @@
       "foil": "false",
       "front": {
         "title": "Blockade",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/blockade.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/blockade.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7177,7 +7177,7 @@
       "foil": "false",
       "front": {
         "title": "End This Pointless Debate",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/endthispointlessdebate.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/endthispointlessdebate.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7206,7 +7206,7 @@
       "foil": "false",
       "front": {
         "title": "The Duel Begins",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/theduelbegins.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/theduelbegins.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7235,7 +7235,7 @@
       "foil": "false",
       "front": {
         "title": "The Jedi Are Involved",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/thejediareinvolved.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/thejediareinvolved.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7264,7 +7264,7 @@
       "foil": "false",
       "front": {
         "title": "Where Are Those Droidekas?",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/wherearethosedroidekas.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/wherearethosedroidekas.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7293,7 +7293,7 @@
       "foil": "false",
       "front": {
         "title": "Droid Starfighter",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/small/droidstarfighter.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/droidstarfighter.gif",
         "type": "staship",
         "subType": "",
         "destiny": "9999",
@@ -7322,7 +7322,7 @@
       "foil": "false",
       "front": {
         "title": "Aurra Sing, Scoundrel",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/aurrasing.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/aurrasing.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7351,7 +7351,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Sidious, The Phantom Menace",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/darthsidious.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/darthsidious.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7380,7 +7380,7 @@
       "foil": "false",
       "front": {
         "title": "Jabba The Hutt",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/jabbathehutt.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/jabbathehutt.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7409,7 +7409,7 @@
       "foil": "false",
       "front": {
         "title": "Nute Gunray, Neimoidean Bureaucrat",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/nutegunray.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/nutegunray.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7438,7 +7438,7 @@
       "foil": "false",
       "front": {
         "title": "Rune Haako, Neimoidean Lieutenant",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/runehaako.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/runehaako.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7467,7 +7467,7 @@
       "foil": "false",
       "front": {
         "title": "Watto, Risk Taker",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/watto.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/watto.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7496,7 +7496,7 @@
       "foil": "false",
       "front": {
         "title": "Watto, Slave Owner",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7525,7 +7525,7 @@
       "foil": "false",
       "front": {
         "title": "Aurra Sing, Bounty Hunter",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7554,7 +7554,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank, Armored Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7583,7 +7583,7 @@
       "foil": "false",
       "front": {
         "title": "Sebulba, Podracer Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7612,7 +7612,7 @@
       "foil": "false",
       "front": {
         "title": "Destroyer Droid Squad, Defense Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7641,7 +7641,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid Squad, Escort Unit",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7670,7 +7670,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank, Assault Division",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7699,7 +7699,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Sidious, Sith Manipulator",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7728,7 +7728,7 @@
       "foil": "false",
       "front": {
         "title": "Sebulba, Dangerous Podracer Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7757,7 +7757,7 @@
       "foil": "false",
       "front": {
         "title": "Watto, Toydarian Gambler",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7786,7 +7786,7 @@
       "foil": "false",
       "front": {
         "title": "Jabba The Hutt, Crime Lord",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7815,7 +7815,7 @@
       "foil": "false",
       "front": {
         "title": "Rune Haako, Neimoidian Deputy",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7844,7 +7844,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Maul, Sith Assassin",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7873,7 +7873,7 @@
       "foil": "false",
       "front": {
         "title": "Sebulba, Champion Podracer Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7902,7 +7902,7 @@
       "foil": "false",
       "front": {
         "title": "Trade Federation Tank, Assault Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7931,7 +7931,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Maul, Student of the Dark Side",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7960,7 +7960,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Sidious, Master of the Dark Side",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7989,7 +7989,7 @@
       "foil": "false",
       "front": {
         "title": "Aurra Sing, Trophy Collector",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8018,7 +8018,7 @@
       "foil": "false",
       "front": {
         "title": "Darth Sidious, The Phantom Menace",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8047,7 +8047,7 @@
       "foil": "false",
       "front": {
         "title": "Watto, Risk Taker",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8076,7 +8076,7 @@
       "foil": "false",
       "front": {
         "title": "Aurra Sing, Scoundrel",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8105,7 +8105,7 @@
       "foil": "false",
       "front": {
         "title": "Jabba The Hutt, Tatooine Tyrant",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8134,7 +8134,7 @@
       "foil": "false",
       "front": {
         "title": "Nute Gunray, Neimoidian Bureaucrat",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8163,7 +8163,7 @@
       "foil": "false",
       "front": {
         "title": "Rune Haako, Neimoidian Lieutenant",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8192,7 +8192,7 @@
       "foil": "false",
       "front": {
         "title": "Watto, Podrace Sponsor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/wattoboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/wattoboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8221,7 +8221,7 @@
       "foil": "false",
       "front": {
         "title": "Aurra Sing, Formidable Adversary",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/aurrasingboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/aurrasingboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8250,7 +8250,7 @@
       "foil": "false",
       "front": {
         "title": "Jabba The Hutt, O Grandio Lust",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/jabbathehuttboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/jabbathehuttboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8279,7 +8279,7 @@
       "foil": "false",
       "front": {
         "title": "TC-14, Protocol Droid",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/tc14boonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8308,7 +8308,7 @@
       "foil": "false",
       "front": {
         "title": "Orr'UrRuuR'R, Tusken Raider Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/orrurruurrboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/orrurruurrboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8337,7 +8337,7 @@
       "foil": "false",
       "front": {
         "title": "Viceroy's Battleship, Trade Federation Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/viceroysbattleshipboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/viceroysbattleshipboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8366,7 +8366,7 @@
       "foil": "false",
       "front": {
         "title": "Aurra Sing, Trophy Collector & Jedi Lightsaber, Stolen by Aurra Sing",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/aurrasingarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/aurrasingarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8395,7 +8395,7 @@
       "foil": "false",
       "front": {
         "title": "Nute Gunray, Neimoidian Viceroy & Neimoidian Viewscreen",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/nutegunrayarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/nutegunrayarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8424,7 +8424,7 @@
       "foil": "false",
       "front": {
         "title": "OOM-9, Battle Droid Commander & STAP",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/owo1armed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/owo1armed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8453,7 +8453,7 @@
       "foil": "false",
       "front": {
         "title": "P-59, Destroyer Droid Commander & Multi Troop Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/p59armed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/p59armed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8482,7 +8482,7 @@
       "foil": "false",
       "front": {
         "title": "Toonbuck Toora, Senator & Coruscant Taxi",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/toonbucktooraarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/toonbucktooraarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8511,7 +8511,7 @@
       "foil": "false",
       "front": {
         "title": "A Thousand Terrible Things & We Are Sending All Troops",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/athousandterriblethingscomb.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/athousandterriblethingscomb.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8540,7 +8540,7 @@
       "foil": "false",
       "front": {
         "title": "At Last We Will Have Revenge & Sith Force Push",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/atlastwewillhaverevengecomb.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/atlastwewillhaverevengecomb.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8569,7 +8569,7 @@
       "foil": "false",
       "front": {
         "title": "Battle Droid Patrol & In Complete Control",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/battledroidpatrolcombobattl.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/battledroidpatrolcombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8598,7 +8598,7 @@
       "foil": "false",
       "front": {
         "title": "Boonta Eve Podrace & Kaa Bazza Kundee Hodrudda!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/boontaevepodracecombobattle.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/boontaevepodracecombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8627,7 +8627,7 @@
       "foil": "false",
       "front": {
         "title": "Podrace Preparation & Yoka To Bantha Poodoo",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/podracepreparationcombobatt.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/podracepreparationcombobatt.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8656,7 +8656,7 @@
       "foil": "false",
       "front": {
         "title": "Switch To Bio & Your Little Insurrection Is At An End",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/switchtobiocombobattle.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/switchtobiocombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8685,7 +8685,7 @@
       "foil": "false",
       "front": {
         "title": "The Phantom Menace & Use Caution",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/thephantommenacecombobattle.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/thephantommenacecombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8714,7 +8714,7 @@
       "foil": "false",
       "front": {
         "title": "Grueling Contest & Da Dug Chaaa!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/gruelingcontestdoubleimpact.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/gruelingcontestdoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8743,7 +8743,7 @@
       "foil": "false",
       "front": {
         "title": "Let Them Make The First Move & Very Unusual",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/letthemmakethefirstmovedoub.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/letthemmakethefirstmovedoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8772,7 +8772,7 @@
       "foil": "false",
       "front": {
         "title": "Now There Are Two Of Them & The Duel Begins",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/nowtherearetwoofthemdoublei.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/nowtherearetwoofthemdoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8801,7 +8801,7 @@
       "foil": "false",
       "front": {
         "title": "Opee Sea Killer & To The Death",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/opeeseakillerdoubleimpact.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/opeeseakillerdoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8830,7 +8830,7 @@
       "foil": "false",
       "front": {
         "title": "Starfighter Screen & Blockade",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/starfighterscreendoubleimpa.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/starfighterscreendoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8859,7 +8859,7 @@
       "foil": "false",
       "front": {
         "title": "We Have Them On The Run & Where Are Those Droidekas?",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/wehavethemontherundoubleimp.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/wehavethemontherundoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8888,7 +8888,7 @@
       "foil": "false",
       "front": {
         "title": "You Have Been Well Trained & After Her!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/youhavebeenwelltraineddoubl.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dark/youhavebeenwelltraineddoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",

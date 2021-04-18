@@ -9,5 +9,5 @@
 *.tar.gz
 *.tar.bz2
 .project
-
-.DS_Store
+.~lock.index.csv#
+.~lock.index2.csv#

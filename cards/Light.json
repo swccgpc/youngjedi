@@ -536,7 +536,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Officer, Battle Planner",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/19nabooofficerbattleplanner.htm",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -565,7 +565,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Security, Guard",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/20naboosecurityguard.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -1609,7 +1609,7 @@
       "foil": "false",
       "front": {
         "title": "I Have A Bad Feeling About This",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/56ihaveabadfeelingaboutthis.htm",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/56ihaveabadfeelingaboutthis.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -1860,7 +1860,7 @@
       "id": 1,
       "gempId": "1_65",
       "side": "Light",
-      "rarity": "/menaceofdarthmaul/light/65tatooinepodracearena.gif",
+      "rarity": "starter set",
       "set": 1,
       "printings": [
         {
@@ -1869,8 +1869,8 @@
       ],
       "foil": "false",
       "front": {
-        "title": "Tatooine !img",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardshttps://web.archive.org/web/20040812061314im_/http://www2.decipher.com/libraryimages/youngjedi/cardsMENACEOFDARTHMAUL/light/smdot.gif Podrace Arena",
+        "title": "Tatooine \u2022 Podrace Arena",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/65tatooinepodracearena.gif",
         "type": "location",
         "subType": "",
         "destiny": "9999",
@@ -1889,7 +1889,7 @@
       "id": 1,
       "gempId": "1_66",
       "side": "Light",
-      "rarity": "/menaceofdarthmaul/light/66coruscantcapitalcity.gif",
+      "rarity": "starter set",
       "set": 1,
       "printings": [
         {
@@ -1898,8 +1898,8 @@
       ],
       "foil": "false",
       "front": {
-        "title": "Coruscant !img",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardshttps://web.archive.org/web/20040812061314im_/http://www2.decipher.com/libraryimages/youngjedi/cardsMENACEOFDARTHMAUL/light/smdot.gif Capital City",
+        "title": "Coruscant \u2022\u00a0Capital City",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/66coruscantcapitalcity.gif",
         "type": "location",
         "subType": "",
         "destiny": "9999",
@@ -1918,7 +1918,7 @@
       "id": 1,
       "gempId": "1_67",
       "side": "Light",
-      "rarity": "/menaceofdarthmaul/light/67nabootheedpalace.gif",
+      "rarity": "starter set",
       "set": 1,
       "printings": [
         {
@@ -1927,8 +1927,8 @@
       ],
       "foil": "false",
       "front": {
-        "title": "Naboo !img",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardshttps://web.archive.org/web/20040812061314im_/http://www2.decipher.com/libraryimages/youngjedi/cardsMENACEOFDARTHMAUL/light/smdot.gif Theed Palace",
+        "title": "Naboo \u2022 Theed Palace",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/67nabootheedpalace.gif",
         "type": "location",
         "subType": "",
         "destiny": "9999",
@@ -2044,7 +2044,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Apprentice",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/1obiwankenobijedi.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/1obiwankenobijediapprentice.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2160,7 +2160,7 @@
       "foil": "false",
       "front": {
         "title": "Padm\u00e9 Naberrie, Queen's Handmaiden",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/5padmenaberriequeenshandma.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/5padmenaberriequeens.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2218,7 +2218,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Senior Jedi Council Member",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/7macewinduseniorjedi.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/7macewinduseniorjedicouncil.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2247,7 +2247,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Representative of Naboo",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/8queenamidala.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/8queenamidalarepresentative.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2363,7 +2363,7 @@
       "foil": "false",
       "front": {
         "title": "Ki-Adi-Mundi, Cerean Jedi Knight",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/12kiadimundicereanjediknig.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/12kiadimundicereanjedi.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -2711,7 +2711,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Tarpals, Gungan Battle Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/24captaintarpalsgunganbatt.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/24captaintarpalsgungan.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -3001,7 +3001,7 @@
       "foil": "false",
       "front": {
         "title": "Coruscant Guard, Peacekeeper",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/34coruscantguardpeace.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/34coruscantguardpeacekeeper.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -3059,7 +3059,7 @@
       "foil": "false",
       "front": {
         "title": "Coruscant Guard, Chancellor's Guard",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/36coruscantguard.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/36coruscantguardchancellors.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4132,7 +4132,7 @@
       "foil": "false",
       "front": {
         "title": "Jar Jar Binks, Bombad Gungan General",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/3jarjarbinksbombadgungange.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/3jarjarbinksbombadgungangen.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4190,7 +4190,7 @@
       "foil": "false",
       "front": {
         "title": "Padm\u00e9 Naberrie, Amidala's Handmaiden",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/5padmenaberrieamidalashand.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/5padmenaberrieamidalashandm.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4219,7 +4219,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Panaka, Veteran Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/6captainpanakaveteranleade.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/6captainpanakaveteranleader.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4277,7 +4277,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Resolute Negotiator",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/8queenamidalaresolutenegot.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/8queenamidalaresolutenegoti.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4306,7 +4306,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Keeper of the Peace",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/9queenamidalakeeperofthepe.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/9queenamidalakeeperofthepea.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4451,7 +4451,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Tarpals, Gungan Officer",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/14captaintarpalsgunganoffi.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/14captaintarpalsgunganoffic.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4538,7 +4538,7 @@
       "foil": "false",
       "front": {
         "title": "Sach\u00e9, Handmaiden",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/17sachehandmaiden.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4683,7 +4683,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Security, Trooper",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/22naboosecuritytrooper.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4770,7 +4770,7 @@
       "foil": "false",
       "front": {
         "title": "Coruscant Guard, Chancellor's Escort",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/25coruscantguardchancellor.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/25coruscantguardchancellors.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -4828,7 +4828,7 @@
       "foil": "false",
       "front": {
         "title": "Council Member, Naboo Governor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/27councilmembernaboogovern.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/27councilmembernaboogoverno.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -5002,7 +5002,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Negotiator",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/33obiwankenobijedinegotiat.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/33obiwankenobijedinegotiato.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -5089,7 +5089,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Tarpals' Electropole",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/36captaintarpalselectropol.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/36captaintarpalselectropole.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -5727,7 +5727,7 @@
       "foil": "false",
       "front": {
         "title": "Your Occupation Here Has Ended",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/58youroccupationherehasend.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/58youroccupationherehasende.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -5785,7 +5785,7 @@
       "foil": "false",
       "front": {
         "title": "Kiss Your Trade Franchise Goodbye",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/60kissyourtradefranchisego.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/60kissyourtradefranchisegoo.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -5901,7 +5901,7 @@
       "foil": "false",
       "front": {
         "title": "Tatooine \u2022 Desert Landing Site",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/64tatooinedesertlandingsit.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/64tatooinedesertlandingsite.gif",
         "type": "location",
         "subType": "",
         "destiny": "9999",
@@ -5988,7 +5988,7 @@
       "foil": "false",
       "front": {
         "title": "Amidala's Starship, Royal Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/67amidalasstarshiproyaltra.gif",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/67amidalasstarshiproyaltran.gif",
         "type": "starship",
         "subType": "",
         "destiny": "9999",
@@ -6094,7 +6094,7 @@
       "id": 3,
       "gempId": "3_F1",
       "side": "Light",
-      "rarity": "",
+      "rarity": "ultra-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6104,7 +6104,7 @@
       "foil": "true",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Knight",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsUltra-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6123,7 +6123,7 @@
       "id": 3,
       "gempId": "3_F2",
       "side": "Light",
-      "rarity": "",
+      "rarity": "ultra-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6133,7 +6133,7 @@
       "foil": "true",
       "front": {
         "title": "Qui-Gon Jinn, Jedi Ambassador",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsUltra-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6152,7 +6152,7 @@
       "id": 3,
       "gempId": "3_F3",
       "side": "Light",
-      "rarity": "",
+      "rarity": "super-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6162,7 +6162,7 @@
       "foil": "true",
       "front": {
         "title": "Queen Amidala, Keeper of the Peace",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsSuper-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6181,7 +6181,7 @@
       "id": 3,
       "gempId": "3_F4",
       "side": "Light",
-      "rarity": "",
+      "rarity": "super-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6191,7 +6191,7 @@
       "foil": "true",
       "front": {
         "title": "Yoda, Jedi Elder",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsSuper-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6210,7 +6210,7 @@
       "id": 3,
       "gempId": "3_F5",
       "side": "Light",
-      "rarity": "",
+      "rarity": "super-rare foil",
       "set": 3,
       "printings": [
         {
@@ -6220,7 +6220,7 @@
       "foil": "true",
       "front": {
         "title": "R2-D2, The Queen's Hero",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsSuper-Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6239,7 +6239,7 @@
       "id": 3,
       "gempId": "3_F6",
       "side": "Light",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6249,7 +6249,7 @@
       "foil": "true",
       "front": {
         "title": "Queen Amidala, Resolute Negotiator",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6268,7 +6268,7 @@
       "id": 3,
       "gempId": "3_F7",
       "side": "Light",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6278,7 +6278,7 @@
       "foil": "true",
       "front": {
         "title": "Mace Windu's Lightsaber",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6297,7 +6297,7 @@
       "id": 3,
       "gempId": "3_F8",
       "side": "Light",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6307,7 +6307,7 @@
       "foil": "true",
       "front": {
         "title": "The Will Of The Force",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6326,7 +6326,7 @@
       "id": 3,
       "gempId": "3_F9",
       "side": "Light",
-      "rarity": "",
+      "rarity": "very rare foil",
       "set": 3,
       "printings": [
         {
@@ -6336,7 +6336,7 @@
       "foil": "true",
       "front": {
         "title": "Amidala's Starship, Royal Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cardsVery Rare Foil",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "foil",
         "subType": "foil",
         "destiny": "9999",
@@ -6452,7 +6452,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Student",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/obiwankenobi.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/obiwankenobi.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6481,7 +6481,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon Jinn, Jedi Mentor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/quigonjinnjedimentor.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/quigonjinnjedimentor.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6510,7 +6510,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Rookie Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/anakinskywalker.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/anakinskywalker.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6539,7 +6539,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Panaka, Security Commander",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/captainpanaka.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/captainpanaka.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6568,7 +6568,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Jedi Councilor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/macewindu.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/macewindu.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6597,7 +6597,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Young Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/queenamidala.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/queenamidala.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6626,7 +6626,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Jedi Philosopher",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/yoda.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6655,7 +6655,7 @@
       "foil": "false",
       "front": {
         "title": "R2-D2, Repair Droid",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/r2d2repairdroid.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/r2d2repairdroid.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6684,7 +6684,7 @@
       "foil": "false",
       "front": {
         "title": "Ric Olie, Starship Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/ricoliestarshippilot.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/ricoliestarshippilot.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6713,7 +6713,7 @@
       "foil": "false",
       "front": {
         "title": "Bravo Pilot, Flyer",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/bravopilot.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/bravopilotflyer.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6742,7 +6742,7 @@
       "foil": "false",
       "front": {
         "title": "Valorum, Leader of the Senate",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/valorum.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/valorum.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -6771,7 +6771,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon Jinn's Lightsaber, Wielded by Obi-Wan Kenobi",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/quigonjinnslightsaber.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/quigonjinnslightsaber.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -6800,7 +6800,7 @@
       "foil": "false",
       "front": {
         "title": "Booma",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/booma.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/booma.gif",
         "type": "weapon",
         "subType": "",
         "destiny": "9999",
@@ -6829,7 +6829,7 @@
       "foil": "false",
       "front": {
         "title": "A Powerful Opponent",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/apowerfulopponent.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/apowerfulopponent.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6858,7 +6858,7 @@
       "foil": "false",
       "front": {
         "title": "Come On, Move!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/comeonmove.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/comeonmove.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6887,7 +6887,7 @@
       "foil": "false",
       "front": {
         "title": "Critical Confrontation",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/criticalconfrontation.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/criticalconfrontation.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6916,7 +6916,7 @@
       "foil": "false",
       "front": {
         "title": "Gungan Mounted Troops",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/gunganmountedtroops.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/gunganmountedtroops.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6945,7 +6945,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Fighter Attack",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/naboofighterattack.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/naboofighterattack.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -6974,7 +6974,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon's Final Stand",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/quigonsfinalstand.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7003,7 +7003,7 @@
       "foil": "false",
       "front": {
         "title": "Run The Blockade",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/runtheblockade.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/runtheblockade.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7032,7 +7032,7 @@
       "foil": "false",
       "front": {
         "title": "Twist Of Fate",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/twistoffate.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/twistoffate.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7061,7 +7061,7 @@
       "foil": "false",
       "front": {
         "title": "You Are Strong With The Force",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/youarestrongwiththeforce.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/youarestrongwiththeforce.gif",
         "type": "battle",
         "subType": "",
         "destiny": "9999",
@@ -7090,7 +7090,7 @@
       "foil": "false",
       "front": {
         "title": "Gungan Energy Shield",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/gunganenergyshield.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/gunganenergyshield.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7119,7 +7119,7 @@
       "foil": "false",
       "front": {
         "title": "He Can See Things Before They Happen",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/hecanseethings.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/hecanseethings.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7148,7 +7148,7 @@
       "foil": "false",
       "front": {
         "title": "Jedi Meditation",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/jedimeditation.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/jedimeditation.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7177,7 +7177,7 @@
       "foil": "false",
       "front": {
         "title": "Jedi Training",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/jeditraining.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/jeditraining.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7206,7 +7206,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Royal Security Forces",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/nabooroyalsecurityforces.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/nabooroyalsecurityforces.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7235,7 +7235,7 @@
       "foil": "false",
       "front": {
         "title": "Pounded Unto Death",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/poundeduntodeath.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/poundeduntodeath.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7264,7 +7264,7 @@
       "foil": "false",
       "front": {
         "title": "Senate Guard",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/senateguard.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/senateguard.gif",
         "type": "effect",
         "subType": "",
         "destiny": "9999",
@@ -7293,7 +7293,7 @@
       "foil": "false",
       "front": {
         "title": "Naboo Starfighter",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/small/naboostarfighter.html",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/naboostarfighter.gif",
         "type": "starship",
         "subType": "",
         "destiny": "9999",
@@ -7322,7 +7322,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Tested By The Jedi Council",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/anakinskywalker.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/anakinskywalker.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7351,7 +7351,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Panaka, Royal Defender",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/captainpanaka.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/captainpanaka.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7380,7 +7380,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Avenger",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/obiwankenobi.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/obiwankenobi.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7409,7 +7409,7 @@
       "foil": "false",
       "front": {
         "title": "Padm\u00e9 Naberrie, Loyal Handmaiden",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/padmenaberrie.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/padmenaberrie.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7438,7 +7438,7 @@
       "foil": "false",
       "front": {
         "title": "R2-D2, Starship Maintenance Droid",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/r2d2.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/r2d2.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7467,7 +7467,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Wise Jedi",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/yoda.gif)",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/yoda.gif",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7496,7 +7496,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Royal Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7525,7 +7525,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Jedi Master",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7554,7 +7554,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Child of Prophecy",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7583,7 +7583,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Voice of Her People",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7612,7 +7612,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Padawan",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7641,7 +7641,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Jedi Speaker",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7670,7 +7670,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon Jinn, Jedi Protector",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7699,7 +7699,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Jedi Warrior",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7728,7 +7728,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Cunning Warrior",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7757,7 +7757,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Student",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7786,7 +7786,7 @@
       "foil": "false",
       "front": {
         "title": "Qui-Gon Jinn, Jedi Mentor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7815,7 +7815,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Rookie Pilot",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7844,7 +7844,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Panaka, Security Commander",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7873,7 +7873,7 @@
       "foil": "false",
       "front": {
         "title": "Mace Windu, Jedi Councilor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7902,7 +7902,7 @@
       "foil": "false",
       "front": {
         "title": "Queen Amidala, Young Leader",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7931,7 +7931,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Jedi Philosopher",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7960,7 +7960,7 @@
       "foil": "false",
       "front": {
         "title": "Shmi Skywalker, Anakin's Mother",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -7989,7 +7989,7 @@
       "foil": "false",
       "front": {
         "title": "Obi-Wan Kenobi, Jedi Avenger",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8018,7 +8018,7 @@
       "foil": "false",
       "front": {
         "title": "Anakin Skywalker, Tested by the Jedi Council",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8047,7 +8047,7 @@
       "foil": "false",
       "front": {
         "title": "Padm\u00e9 Naberrie, Loyal Handmaiden",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8076,7 +8076,7 @@
       "foil": "false",
       "front": {
         "title": "Captain Panaka, Royal Defender",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8105,7 +8105,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Wise Jedi",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8134,7 +8134,7 @@
       "foil": "false",
       "front": {
         "title": "R2-D2, Starship Maintenance Droid",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/missing_image.png",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8163,7 +8163,7 @@
       "foil": "false",
       "front": {
         "title": "Yoda, Jedi Instructor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/yodaboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/yodaboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8192,7 +8192,7 @@
       "foil": "false",
       "front": {
         "title": "C-3PO, Human-Cyborg Relations Droid",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/c3poboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/c3poboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8221,7 +8221,7 @@
       "foil": "false",
       "front": {
         "title": "Jira, Pallie Vendor",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/jiraboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/jiraboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8250,7 +8250,7 @@
       "foil": "false",
       "front": {
         "title": "Kitster, Anakin's Friend",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/kitsterboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/kitsterboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8279,7 +8279,7 @@
       "foil": "false",
       "front": {
         "title": "Wald, Anakin's Friend",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/waldboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/waldboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8308,7 +8308,7 @@
       "foil": "false",
       "front": {
         "title": "Amidala's Starship, Queen's Transport",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/amidalasstarshipboonta.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg",
         "type": "character",
         "subType": "",
         "destiny": "9999",
@@ -8337,7 +8337,7 @@
       "foil": "false",
       "front": {
         "title": "Jar Jar Binks, Bombad Gungan General & Jar Jar Binks' Electropole",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/jarjarbinksarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/jarjarbinksarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8366,7 +8366,7 @@
       "foil": "false",
       "front": {
         "title": "Boss Nass, Gungan Chief & Fambaa",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/bossnassarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/bossnassarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8395,7 +8395,7 @@
       "foil": "false",
       "front": {
         "title": "Adi Gallia, Corellian Jedi Master & Adi Gallia's Lightsaber",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/adigalliaarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/adigalliaarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8424,7 +8424,7 @@
       "foil": "false",
       "front": {
         "title": "Eeth Koth, Zabrak Jedi Master & Eeth Koth's Lightsaber",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/eethkotharmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/eethkotharmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8453,7 +8453,7 @@
       "foil": "false",
       "front": {
         "title": "Ki-Adi-Mundi, Cerean Jedi Knight & Jedi Lightsaber, Constructed by Ki-Adi-Mundi",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/kiadimundiarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/kiadimundiarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8482,7 +8482,7 @@
       "foil": "false",
       "front": {
         "title": "Valorum, Supreme Chancellor & Planetary Shuttle",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/valorumarmed.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/valorumarmed.jpg",
         "type": "armedanddangerous",
         "subType": "",
         "destiny": "9999",
@@ -8511,7 +8511,7 @@
       "foil": "false",
       "front": {
         "title": "Are You An Angel? & I've Been Trained In Defense",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/areyouanangelcombobattle.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/areyouanangelcombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8540,7 +8540,7 @@
       "foil": "false",
       "front": {
         "title": "Brave Little Droid & Counterparts",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/bravelittledroidcombobattle.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/bravelittledroidcombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8569,7 +8569,7 @@
       "foil": "false",
       "front": {
         "title": "Celebration & Gungan Mounted Trooops",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/celebrationcombobattle.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/celebrationcombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8598,7 +8598,7 @@
       "foil": "false",
       "front": {
         "title": "Enough Of This Pretense & I Will Not Cooperate",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/enoughofthispretensecomboba.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/enoughofthispretensecomboba.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8627,7 +8627,7 @@
       "foil": "false",
       "front": {
         "title": "Fear Attracts The Fearful & How Wude!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/fearattractsthefearfulcombo.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/fearattractsthefearfulcombo.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8656,7 +8656,7 @@
       "foil": "false",
       "front": {
         "title": "I Have A Bad Feeling About This & NOOOOOOOOOOO!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/ihaveabadfeelingaboutthisco.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/ihaveabadfeelingaboutthiscombo.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8685,7 +8685,7 @@
       "foil": "false",
       "front": {
         "title": "Jedi Force Push & We're Not In Trouble Yet",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/jediforcepushcombobattle.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/jediforcepushcombobattle.jpg",
         "type": "combobattle",
         "subType": "",
         "destiny": "9999",
@@ -8714,7 +8714,7 @@
       "foil": "false",
       "front": {
         "title": "Dos Mackineeks No Comen Here! & Bombad General",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/dosmackineeksnocomenheredou.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/dosmackineeksnocomenheredoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8743,7 +8743,7 @@
       "foil": "false",
       "front": {
         "title": "Gunga City & Gungan Energy Shield",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/gungacitydoubleimpact.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/gungacitydoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8772,7 +8772,7 @@
       "foil": "false",
       "front": {
         "title": "The Queen's Plan & Naboo Royal Security Forces",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/thequeensplandoubleimpact.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/thequeensplandoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8801,7 +8801,7 @@
       "foil": "false",
       "front": {
         "title": "The Might Of The Republic & Senate Guard",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/themightoftherepublicdouble.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/themightoftherepublicdoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8830,7 +8830,7 @@
       "foil": "false",
       "front": {
         "title": "The Negotiations Were Short & Qui-Gon's Final Stand",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/thenegotiationswereshortdou.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/thenegotiationswereshortdoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8859,7 +8859,7 @@
       "foil": "false",
       "front": {
         "title": "Wisdom Of The Council & Jedi Training",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/wisdomofthecouncildoubleimp.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/wisdomofthecouncildoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
@@ -8888,7 +8888,7 @@
       "foil": "false",
       "front": {
         "title": "Yousa Guys Bombad! & Uh-Oh!",
-        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/yousaguysbombaddoubleimpact.jpg",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/reflections/light/yousaguysbombaddoubleimpact.jpg",
         "type": "doubleimpact",
         "subType": "",
         "destiny": "9999",
