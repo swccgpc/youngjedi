@@ -1,6 +1,441 @@
 {
   "cards": [
     {
+      "id": 0,
+      "gempId": "0_8",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "royal guard leader character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/08_royal_guard_leader_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_10",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "jar jar binks electropole weapon",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/10_jar_jar_binks_electropole_weapon.jpg",
+        "type": "weapon",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_14",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "were not in trouble yet battle",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/14_were_not_in_trouble_yet_battle.jpg",
+        "type": "battle",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_2",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "qui-gon jinn jedi master character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/02_qui-gon_jinn_jedi_master_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_5",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "yoda jedi master character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/05_yoda_jedi_master_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_12",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "da beings hereabouts cawazy battle",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/12_da_beings_hereabouts_cawazy_battle.jpg",
+        "type": "battle",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_11",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "blaster rifle weapon",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/11_blaster_rifle_weapon.jpg",
+        "type": "battle",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_13",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "ive been trained in defense battle",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/13_ive_been_trained_in_defense_battle.jpg",
+        "type": "weapon",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_7",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "ric olie ace pilot character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/07_ric_olie_ace_pilot_character.jpg",
+        "type": "battle",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_6",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "boss nass leader of the gungans character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/06_boss_nass_leader_of_the_gungans_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_15",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "tatooine podrace arena rentals",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/15_tatooine_podrace_arena_rentals.jpg",
+        "type": "location",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_3",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "jar jar binks gungan chuba thief character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/03_jar_jar_binks_gungan_chuba_thief_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_4",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "padme naberrie handmaiden character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/04_padme_naberrie_handmaiden_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_1",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "obi-wan kenobi young jedi character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/01_obi-wan_kenobi_young_jedi_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_9",
+      "side": "Light",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "obi-wan kenobis lightsaber weapon",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/light/09_obi-wan_kenobis_lightsaber_weapon.jpg",
+        "type": "weapon",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
       "id": 1,
       "gempId": "1_1",
       "side": "Light",

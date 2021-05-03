@@ -1,6 +1,441 @@
 {
   "cards": [
     {
+      "id": 0,
+      "gempId": "0_24",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "sith lightsaber weapon",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/24_sith_lightsaber_weapon.jpg",
+        "type": "weapon",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_25",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "stap weapon",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/25_stap_weapon.jpg",
+        "type": "weapon",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_20",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "destroyer droid squad security division character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/20_destroyer_droid_squad_security_division_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_28",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "sandstorm battle",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/28_sandstorm_battle.jpg",
+        "type": "battle",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_22",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "trade federation tank armored division character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/22_trade_federation_tank_armored_division_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_30",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "tatooine desert landing site location",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/30_tatooine_desert_landing_site_location.jpg",
+        "type": "location",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_18",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "sebulba bad-tempered dug character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/18_sebulba_bad-tempered_dug_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_26",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "blaster rifle weapon",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/26_blaster_rifle_weapon.jpg",
+        "type": "weapon",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_29",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "sniper battle",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/29_sniper_battle.jpg",
+        "type": "battle",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_23",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "battle droid infantry mtt division character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/23_battle_droid_infantry_mtt_division_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_21",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "battle droid squad assault unit character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/21_battle_droid_squad_assault_unit_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_16",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "darth maul sith apprentice character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/16_darth_maul_sith_apprentice_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_19",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "watto slave owner character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/19_watto_slave_owner_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_17",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "darth sidious sith master character",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/17_darth_sidious_sith_master_character.jpg",
+        "type": "character",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
+      "id": 0,
+      "gempId": "0_27",
+      "side": "Dark",
+      "rarity": "common",
+      "set": 0,
+      "printings": [
+        {
+          "set": "sampledeck"
+        }
+      ],
+      "foil": "false",
+      "front": {
+        "title": "in complete control battle",
+        "imageUrl": "https://res.starwarsccg.org/youngjedi/cards/sampledeck/dark/27_in_complete_control_battle.jpg",
+        "type": "battle",
+        "subType": "",
+        "destiny": "9999",
+        "power": "9999",
+        "deploy": "9999",
+        "forfeit": "9999",
+        "gametext": "xxxxxxxx",
+        "lore": "yyyyyyyyy",
+        "extraText": [
+          ""
+        ]
+      },
+      "counterpart": ""
+    },
+    {
       "id": 1,
       "gempId": "1_71",
       "side": "Dark",

@@ -7,6 +7,7 @@ import os.path
 from pathlib import Path
 
 csv_files = {
+  0: {"name":"sample deck",                   "abbr":"SMP",  "csv":"sampledeck/index.csv"},
   1: {"name":"menace of darth maul",          "abbr":"DM",  "csv":"menaceofdarthmaul/index.csv"},
   2: {"name":"the jedi council",              "abbr":"JC",  "csv":"thejedicouncil/index.csv"},
   3: {"name":"battle of naboo",               "abbr":"BN",  "csv":"battleofnaboo/index.csv"},

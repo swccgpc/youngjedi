@@ -1,5 +1,12 @@
 [
   {
+    "id": 0,
+    "name": "sample deck",
+    "gempName": "sample deck",
+    "abbr": "SMP",
+    "legacy": "false"
+  },
+  {
     "id": 1,
     "name": "menace of darth maul",
     "gempName": "menace of darth maul",
