@@ -36,7 +36,8 @@ csv_files = {
 cards = []
 cards_dark = []
 cards_light = []
-sets = []
+sets  = []
+mturk = {}
 
 print_row = False
 print("")
@@ -136,23 +137,41 @@ for i in csv_files:
           cards_dark.append(card)
         else:
           cards_light.append(card)
+        
+        cardtype = card["front"]["type"]
+        if cardtype not in mturk:
+          mturk[cardtype] = []
+          mturk[cardtype].append(["gempId", "title", "rarity", "imageUrl"])
+        else:
+          if i != 0:
+            mturk[cardtype].append([card["gempId"], card["front"]["title"], card["rarity"], card["front"]["imageUrl"]])
 
 
-print("")
+print("\nWriting Mechanical Turk CSV files")
+for cardtype in mturk:
+  mturk_csv_file = "../mturk/"+cardtype+".csv"
+  print("  * "+mturk_csv_file+" ("+str(len(mturk[cardtype]))+")")
+  with open(mturk_csv_file, 'w', newline='') as csvfile:
+      spamwriter = csv.writer(csvfile, delimiter=',', quotechar='"')
+      for row in mturk[cardtype]:
+        spamwriter.writerow(row)
 
+
+print("\nWriting JSON files")
+print("  * Dark.json")
 fh = open("Dark.json", "w")
 fh.write(json.dumps({"cards":cards_dark}, indent=2))
 fh.close()
 
+print("  * Light.json")
 fh = open("Light.json", "w")
 fh.write(json.dumps({"cards":cards_light}, indent=2))
 fh.close()
 
+print("  * sets.json")
 fh = open("sets.json", "w")
 fh.write(json.dumps(sets, indent=2))
 fh.close()
 
-print("cards written to: Dark.json and Light.json")
-print("sets written to: sets.json")
-print("")
+print("\ndone.\n")
 
