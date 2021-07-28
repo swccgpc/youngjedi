@@ -1,0 +1,65 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+<!-- ${gempId} -->
+<!-- ${rarity} -->
+    <div>
+        <strong>Instructions: </strong> 
+        <span>The image on the left describes the card layout. Collect the  information from the <strong>card on the right</strong>, <em>if it's available</em></span>
+        <div>
+                <style type="text/css">
+                    th { color:#ffffff; background-color:#000000; font-weight:bold; }
+                    table,th,td { border:2px #000000 solid; }
+                    table { background-color:#efefef; }
+                    td { background-color:#ffffff; }
+                    td.color-seperator { text-align:center; background-color:#dddddd; color:#000000; border:none !important; }
+                    img#reference-card { width:424px; height:418px; }
+                    img#review-card { width:367px; height:506px; }
+                    td#reference-card-cell { background-color:#dddddd; }
+                    td.white-box  { background-color:#ffffff; }
+                    td.red-box    { background-color:#ff8989; }
+                    td.orange-box { background-color:#f6a75e; }
+                    td.blue-box   { background-color:#5e8bf6; }
+                    td.yellow-box { background-color:#ffef89; }
+                    td.green-box  { background-color:#9bf0a3; }
+                    td.purple-box { background-color:#d19bf0; }
+                </style>
+                <table border="0" cellspacing="0" cellpadding="5">
+                    <tr><th>Reference</th><th colspan="2">For Review</th></tr>
+                    <tr><td valign="top" id="reference-card-cell"><center><img id="reference-card" src="https://res.starwarsccg.org/youngjedi/cardtypes/character.png" /><br /><img src="https://res.starwarsccg.org/youngjedi/cardtypes/icon_vs_counters.png" style="width:300px;" /><br /><img src="https://res.starwarsccg.org/youngjedi/cardtypes/dot_colors.png" style="width:200px;" /></center></td><td valign="top"><img id="review-card" src="${imageUrl}" /></td><td>
+                        <table>
+                            <tr><th colspan="2">${title}</th></tr>
+                            <tr><th><strong>Dice Cube</strong> <em>(Destiny)</em>:</th><td><crowd-input name="destiny" placeholder="number" allowed-pattern="[0-9]+" required /></td></tr>
+                            <tr><th rowspan="2"><strong>Counters</strong>:<br /><em>(ticks on upper left)</em></th><td><crowd-input name="counters" placeholder="number of tick marks" allowed-pattern="[0-9]+" required /></td></tr>
+                            <tr><td style="border:none !important; background-color:#dddddd !important;"><em><small>Counters are the little silver bars under the top-left character icon.</small></em></td></tr>
+                            <tr><th><strong>Power</strong>:</th><td><crowd-input name="power" placeholder="number" allowed-pattern="[0-9]+" required /></td></tr>
+                            <tr><th><strong>Damage</strong> <em>(lower left)</em>:</th><td><crowd-input name="damage" placeholder="number" allowed-pattern="[0-9]+" required /></td></tr>
+                            <tr><th colspan="2"><strong>Lore</strong> <em>(bottom center text)</em>:</th></tr>
+                            <tr style="padding-bottom:0px; margin-bottom:0px;"><td colspan="2" style="border-bottom:none !important; padding-bottom:0px; margin-bottom:0px;"><crowd-input name="lore" placeholder="Type the text from the lore box here." required /></td></tr>
+                            <tr style="padding-top:0px; margin-top:0px; "><td colspan="2" style="border-top:none !important; padding-top:0px; margin-top:0px; text-align:center;"><em><small>Do not need to denote special symbols like &#11045;</small></em></td></tr>
+                            <tr><th colspan="2"><strong>Dot Colors</strong> <em>(lower right)</em>:</th></tr>
+                            <tr><td colspan="2">
+                                <em><small>Dots are only <strong>white</strong> if they are colored in <img src="https://res.starwarsccg.org/youngjedi/cardtypes/dot_filled.png" style="height:10px; width:10px;" />. If just an outline without color <img src="https://res.starwarsccg.org/youngjedi/cardtypes/dot_empty.png" style="height:10px; width:10px;" /> then do not check the box for the color.</small></em>
+                                <table width="100%" style="border:none !important">
+                                    <tr><td class="red-box"><crowd-checkbox name="1-red"   >1: red</crowd-checkbox></td><td class="color-seperator">/</td><td class="white-box"><crowd-checkbox name="1-white">1: white</crowd-checkbox></td></tr>
+                                    <tr><td class="orange-box"><crowd-checkbox name="2-orange">2: orange</crowd-checkbox></td><td class="color-seperator">/</td><td class="white-box"><crowd-checkbox name="2-white">2: white</crowd-checkbox></td></tr>
+                                    <tr><td class="blue-box"><crowd-checkbox name="3-blue"  >3: blue</crowd-checkbox></td><td class="color-seperator">/</td><td class="white-box"><crowd-checkbox name="3-white">3: white</crowd-checkbox></td></tr>
+                                    <tr><td class="yellow-box"><crowd-checkbox name="4-yellow">4: yellow</crowd-checkbox></td><td class="color-seperator">/</td><td class="white-box"><crowd-checkbox name="4-white">4: white</crowd-checkbox></td></tr>
+                                    <tr><td class="green-box"><crowd-checkbox name="5-green" >5: green</crowd-checkbox></td><td class="color-seperator">/</td><td class="white-box"><crowd-checkbox name="5-white">5: white</crowd-checkbox></td></tr>
+                                    <tr><td class="purple-box"><crowd-checkbox name="6-purple">6: purple</crowd-checkbox></td><td class="color-seperator">/</td><td class="white-box"><crowd-checkbox name="6-white">6: white</crowd-checkbox></td></tr>
+                                </table>
+                                There are size rows.<br />Dots can be a set color, or white.<br />Indicate if the color is set, or if the white color is set.<br /><strong><em>If no color set, do not mark the checkbox.</em></strong><br />Do not confuse with dots that may appear in the <strong>lore</strong> or under the <strong>power</strong>
+                            </td></tr>
+                        </table><!-- red, orange, blue, yellow, green and purple -->
+                    </td></tr>
+                </table>
+            <div>&nbsp;</div>
+        </div>
+    </div>
+</crowd-form>
+<div>&nbsp;</div>
