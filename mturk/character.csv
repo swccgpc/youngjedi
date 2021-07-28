@@ -1,0 +1,345 @@
+gempId,title,rarity,imageUrl
+1_71,"Darth Maul, Sith Apprentice",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/71darthmaulsithapprentice.gif
+1_72,"Darth Sidious, Sith Master",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/72darthsidioussithmaster.gif
+1_73,"Sebulba, Bad-Tempered Dug",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/73sebulbabadtempereddug.gif
+1_74,"Watto, Slave Owner",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/74wattoslaveowner.gif
+1_75,"Aurra Sing, Bounty Hunter",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/75aurrasingbountyhunter.gif
+1_76,"Jabba the Hutt, Vile Crime Lord",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/76jabbathehutvilecrimelord.gif
+1_77,"Gardulla the Hutt, Crime Lord",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/77gardullathehutcrimelord.gif
+1_78,"Destroyer Droid Squad, Security Division",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/78destroyerdroidsquad.gif
+1_79,"Battle Droid Squad, Assault Unit",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/79battledroidsquadassault.gif
+1_80,"Ben Quadinaros, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/80benquadinarospodracer.gif
+1_81,"Gasgano, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/81gasganpodracerpilot.gif
+1_82,"Mawhonic, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/82mawhonicpodracerpilot.gif
+1_83,"Teemto Pagalies, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/83teemtopagaliespodracer.gif
+1_84,"Bib Fortuna, Twi'lek Advisor",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/84bibfortunatwilekadvisor.gif
+1_85,"Ann and Tann Gella, Sebulba's Attendants",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/85annandtanngella.gif
+1_86,"Gragra, Chuba Peddler",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/86gragrachubapeddler.gif
+1_87,"Passel Argente, Senator",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/87passelargentesenator.gif
+1_88,"Trade Federation Tank, Armored Division",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/88tradefederationtank.gif
+1_89,"Destroyer Droid, Wheel Droid",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/89destroyerdroidwheeldroid.gif
+1_90,"Destroyer Droid, Defense Droid",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/90destroyerdroiddefense.gif
+1_91,"Sith Probe Droid, Spy Drone",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/91sithprobedroidspydrone.gif
+1_92,"Pit Droid, Engineer",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/92pitdroidengineer.gif
+1_93,"Pit Droid, Heavy Lifter",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/93pitdroidheavylifter.gif
+1_94,"Pit Droid, Mechanic",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/94pitdroidmechanic.gif
+1_95,"Tusken Raider, Nomad",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/95tuskenraidernomad.gif
+1_96,"Tusken Raider, Marksman",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/96tuskenraidermarksman.gif
+1_97,"Battle Droid: Pilot, MTT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/97battledroidpilotmtt.gif
+1_98,"Battle Droid: Security, MTT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/98battledroidsecuritymtt.gif
+1_99,"Battle Droid: Infantry, MTT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/99battledroidinfantrymtt.gif
+1_100,"Battle Droid: Officer, MTT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/100battledroidofficermtt.gif
+1_101,"Battle Droid: Pilot, AAT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/101battledroidpilotaat.gif
+1_102,"Battle Droid: Security, AAT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/102battledroidsecurityaat.gif
+1_103,"Battle Droid: Infantry, AAT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/103battledroidinfantryaat.gif
+1_104,"Battle Droid: Officer, AAT Division",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/104battledroidofficeraat.gif
+1_105,"Neimoidian, Trade Federation Pilot",starter set,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/105neimoidiantrade.gif
+1_106,"Darth Maul, Sith Lord",starter set,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/dark/106darthmaulsithlord.gif
+1_1,"Obi-Wan Kenobi, Young Jedi",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/1obiwankenobiyoungjedi.gif
+1_2,"Qui-Gon Jinn, Jedi Master",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/2quigonjinnjedimaster.gif
+1_3,"Jar Jar Binks, Gungan Chuba Thief",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/3jarjarbinksgunganchuba.gif
+1_4,"Anakin Skywalker, Podracer Pilot",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/4anakinskywalkerpodracer.gif
+1_5,"Padmé Naberrie, Handmaiden",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/5padmenaberriehandmaiden.gif
+1_6,"Captain Panaka, Protector of the Queen",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/6captainpanakaprotetor.gif
+1_7,"Mace Windu, Jedi Master",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/7macewindujedimaster.gif
+1_8,"Queen Amidala, Ruler of Naboo",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/8queenamidalaruleofnaboo.gif
+1_9,"Queen Amidala, Royal Leader",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/9queenamidalaroyalleader.gif
+1_10,"Yoda, Jedi Master",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/10yodajedimaster.gif
+1_11,"R2-D2, Astromech Droid",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/11r2d2astromechdroid.gif
+1_12,"C-3PO, Anakin's Creation",rare,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/12c3poanakinscreation.gif
+1_13,"Boss Nass, Leader of the Gungans",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/13bossnassleaderofthe.gif
+1_14,"Ric Olié, Ace Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/14ricolieacepilot.gif
+1_15,"Captain Tarpals, Gungan Guard",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/15captaintarpalsgungan.gif
+1_16,"Rabé, Handmaiden",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/16rabehandmaiden.gif
+1_17,"Rep Been, Gungan",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/17repbeengungan.gif
+1_18,"Mas Amedda, Vice Chancellor",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/18masameddavicechancellor.gif
+1_19,"Naboo Officer, Battle Planner",uncommon,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/19naboofficerbattleplanner.gif
+1_20,"Naboo Security, Guard",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/20naboosecurityguard.gif
+1_21,"Bravo Pilot, Veteran Flyer",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/21bravopilotveteranflyer.gif
+1_22,"Gungan Official, Bureaucrat",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/22gunganofficialbureaucrat.gif
+1_23,"Gungan Soldier, Scout",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/23gungansoldierscout.gif
+1_24,Gungan Guard,common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/24gunganguard.gif
+1_25,"Gungan Warrior, Infantry",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/25gunganwarriorinfantry.gif
+1_26,"Gungan Soldier, Veteran",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/26gungansoldierveteran.gif
+1_27,"Ishi Tib, Warrior",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/27ishitibwarrior.gif
+1_28,"Ithorian, Merchant",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/28ithorianmerchant.gif
+1_29,"Jawa, Thief",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/29jawathief.gif
+1_30,"Jawa, Bargainer",starter set,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/30jawabargainer.gif
+1_31,"Royal Guard, Leader",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/31royalguardleader.gif
+1_32,"Royal Guard, Veteran",common,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/32royalguardveteran.gif
+1_33,"Obi-Wan Kenobi, Jedi Padawan",starter set,https://res.starwarsccg.org/youngjedi/cards/menaceofdarthmaul/light/33obiwankenobijedipadawan.gif
+2_71,"Darth Maul, Master of Evil",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/71darthmaulmasterofevil.gif
+2_72,"Darth Sidious, Lord of the Sith",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/72darthsidiouslordofthesith.gif
+2_73,"Sebulba, Podracer Pilot",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/73sebulbapodracerpilot.gif
+2_74,"Watto, Junk Merchant",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/74wattojunkmerchant.gif
+2_75,"Jabba the Hutt, Gangster",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/75jabbathehuttgangster.gif
+2_76,"Nute Gunray, Neimoidian Viceroy",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/76nutegunrayneimoidian.gif
+2_77,"Rune Haako, Neimoidian Advisor",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/77runehaakoneimoidian.gif
+2_78,"Destroyer Droid Squad, Defense Division",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/78destroyerdroidsquad.gif
+2_79,"Battle Droid Squad, Escort Unit",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/79battledroidsquadescort.gif
+2_80,"Trade Federation Tank, Assault Division",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/80tradefederationtank.gif
+2_81,"Lott Dod, Neimoidian Senator",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/81lottdodneimoidiansenator.gif
+2_82,"Fode and Beed, Podrace Announcer",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/82fodeandbeedpodrace.gif
+2_83,"Clegg Holdfast, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/83cleggholdfastpodracer.gif
+2_84,"Dud Bolt, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/84dudboltpodracerpilot.gif
+2_85,"Mars Guo, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/85marsguopodracerpilot.gif
+2_86,"Ody Mandrell, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/86odymandrellpodracerpilot.gif
+2_87,"Ratts Tyerell, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/87rattstyerellpodracerpilot.gif
+2_88,"Aks Moe, Senator",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/88aksmoesenator.gif
+2_89,"Horox Ryyder, Senator",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/89horoxryydersenator.gif
+2_90,"Edcel Bar Gane, Roona Senator",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/90edcelbarganeroonasenator.gif
+2_91,"Galactic Delegate, Representative",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/91galacticdelegaterep.gif
+2_92,"Destroyer Droid, Assault Droid",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/92destroyerdroidassault.gif
+2_93,"Destroyer Droid, Battleship Security",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/93destroyerdroidbattleship.gif
+2_94,"Sith Probe Droid, Hunter Droid",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/94sithprobedroidhunterdroid.gif
+2_95,"Rodian, Mercenary",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/95rodianmercenary.gif
+2_96,"Battle Droid: Pilot, Assault Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/96battledroidpilotassault.gif
+2_97,"Battle Droid: Security, Assault Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/97battledroidsecurity.gif
+2_98,"Battle Droid: Infantry, Assault Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/98battledroidinfantry.gif
+2_99,"Battle Droid: Officer, Assault Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/99battledroidofficerassault.gif
+2_100,"Battle Droid: Pilot, Guard Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/100battledroidpilotguard.gif
+2_101,"Battle Droid: Security, Guard Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/101battledroidsecurityguard.gif
+2_102,"Battle Droid: Infantry, Guard Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/102battledroidinfantryguard.gif
+2_103,"Battle Droid: Officer, Guard Division",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/103battledroidofficerguard.gif
+2_104,"Neimoidian Aide, Trade Federation Delegate",starter set,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/104neimoidianaidetrade.gif
+2_105,"Darth Maul, Sith Warrior",starter set,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/dark/105darthmaulsithwarrior.gif
+2_1,"Obi-Wan Kenobi, Jedi Apprentice",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/1obiwankenobijediapprentice.gif
+2_2,"Qui-Gon Jinn, Jedi Protector",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/2quigonjinnjediprotector.gif
+2_3,"Jar Jar Binks, Gungan Outcast",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/3jarjarbinksgunganoutcast.gif
+2_4,"Anakin Skywalker, Child of Prophecy",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/4anakinskywalkerchildof.gif
+2_5,"Padmé Naberrie, Queen's Handmaiden",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/5padmenaberriequeens.gif
+2_6,"Captain Panaka, Amidala's Bodyguard",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/6captainpanakaamidalas.gif
+2_7,"Mace Windu, Senior Jedi Council Member",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/7macewinduseniorjedicouncil.gif
+2_8,"Queen Amidala, Representative of Naboo",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/8queenamidalarepresentative.gif
+2_9,"Queen Amidala, Voice of Her People",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/9queenamidalavoiceofher.gif
+2_10,"Yoda, Jedi Council Member",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/10yodajedicouncilmember.gif
+2_11,"R2-D2, Loyal Droid",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/11r2d2loyaldroid.gif
+2_12,"Ki-Adi-Mundi, Cerean Jedi Knight",rare,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/12kiadimundicereanjedi.gif
+2_13,"Adi Gallia, Corellian Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/13adigalliacorellianjedi.gif
+2_14,"Depa Billaba, Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/14depabillabajedimaster.gif
+2_15,"Eeth Koth, Zabrak Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/15eethkothzabrakjedimaster.gif
+2_16,"Even Piell, Lannik Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/16evenpielllannikjedi.gif
+2_17,"Oppo Rancisis, Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/17opporancisisjedimaster.gif
+2_18,"Plo Koon, Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/18plokoonjedimaster.gif
+2_19,"Saesee Tiin, Iktotchi Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/19saeseetiiniktotchijedi.gif
+2_20,"Yaddle, Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/20yaddlejedimaster.gif
+2_21,"Yarael Poof, Quermian Jedi Master",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/21yaraelpoofquermianjedi.gif
+2_22,"Boss Nass, Gungan Leader",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/22bossnassgunganleader.gif
+2_23,"Ric Olié, Chief Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/23ricoliechiefpilot.gif
+2_24,"Captain Tarpals, Gungan Battle Leader",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/24captaintarpalsgungan.gif
+2_25,"Eirtaé, Handmaiden",uncommon,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/25eirtaehandmaiden.gif
+2_26,"Valorum, Supreme Chancellor",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/26valorumsupremechancellor.gif
+2_27,"Sci Taria, Chancellor's Aide",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/27scitariachancellorsaide.gif
+2_28,"Naboo Officer, Liberator",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/28nabooofficerliberator.gif
+2_29,"Bravo Pilot, Naboo Volunteer",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/29bravopilotnaboovolunteer.gif
+2_30,"Naboo Security, Amidala's Guard",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/30naboosecurityamidalas.gif
+2_31,"Republic Captain, Officer",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/31republiccaptainofficer.gif
+2_32,"Republic Pilot, Veteran",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/32republicpilotveteran.gif
+2_33,"Coruscant Guard, Coruscant Detachment",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/33coruscantguardcoruscant.gif
+2_34,"Coruscant Guard, Peacekeeper",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/34coruscantguardpeacekeeper.gif
+2_35,"Coruscant Guard, Officer",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/35coruscantguardofficer.gif
+2_36,"Coruscant Guard, Chancellor's Guard",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/36coruscantguardchancellors.gif
+2_37,"Wookiee Senator, Representative",common,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/37wookieesenator.gif
+2_38,"Galactic Senator, Delegate",starter set,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/38galacticsenatordelegate.gif
+2_39,"Obi-Wan Kenobi, Jedi Warrior",starter set,https://res.starwarsccg.org/youngjedi/cards/thejedicouncil/light/39obiwankenobijediwarrior.gif
+3_71,"Darth Maul, Dark Lord of the Sith",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/71darthmauldarklordofthesit.gif
+3_72,"Darth Sidious, Sith Manipulator",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/72darthsidioussithmanipulat.gif
+3_73,"Sebulba, Dangerous Podracer Pilot",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/73sebulbadangerouspodracerp.gif
+3_74,"Watto, Toydarian Gambler",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/74wattotoydariangambler.gif
+3_75,"Aurra Sing, Mercenary",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/75aurrasingmercenary.gif
+3_76,"Jabba The Hutt, Crime Lord",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/76jabbathehuttcrimelord.gif
+3_77,"Nute Gunray, Neimoidian Despot",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/77nutegunrayneimoidiandespo.gif
+3_78,"Rune Haako, Neimoidian Deputy",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/78runehaakoneimoidiandeputy.gif
+3_79,"Destroyer Droid Squad, Guard Division",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/79destroyerdroidsquadguard.gif
+3_80,"Battle Droid Squad, Guard Unit",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/80battledroidsquadguardunit.gif
+3_81,"Trade Federation Tank, Guard Division",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/81tradefederationtankguardd.gif
+3_82,"Trade Federation Tank, Patrol Division",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/82tradefederationtankpatrol.gif
+3_83,"P-59, Destroyer Droid Commander",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/83p59destroyerdroidcommande.gif
+3_84,"OOM-9, Battle Droid Commander",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/84oom9battledroidcommander.gif
+3_85,"Daultay Dofine, Neimoidian Attendant",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/85daultaydofinemeimoidianat.gif
+3_86,"Diva Shaliqua, Singer",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/86divashaliquasinger.gif
+3_87,"Diva Funquita, Dancer",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/87divafunquitadancer.gif
+3_88,"Bith, Musician",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/88bithmusician.gif
+3_89,"Quarren, Smuggler",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/89quarrensmuggler.gif
+3_90,"Toonbuck Toora, Senator",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/90toonbucktoorasenator.gif
+3_91,"Aqualish, Galactic Senator",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/91aqualishgalacticsenator.gif
+3_92,"Twi'lek Diplomat, Senator",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/92twilekdiplomatsenator.gif
+3_93,"Weequay, Enforcer",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/93weequayenforcer.gif
+3_94,"Nikto, Slave",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/94niktoslave.gif
+3_95,"Pacithhip, Prospector",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/95pacithhipprospector.gif
+3_96,"Destroyer Droid, Vanguard Droid",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/96destroyerdroidvanguarddr.gif
+3_97,"Destroyer Droid, MTT Infantry",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/97destroyerdroismttinfantry.gif
+3_98,"Sith Probe Droid, Remote Tracker",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/98sithprobedroidremotetrack.gif
+3_99,"Battle Droid: Pilot, Patrol Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/99battledroidpilotpatroldiv.gif
+3_100,"Battle Droid: Security, Patrol Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/100battledroidsecuritypatro.gif
+3_101,"Battle Droid: Infantry, Patrol Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/101battledroidinfantrypatro.gif
+3_102,"Battle Droid: Officer, Patrol Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/102battledroidofficerpatrol.gif
+3_103,"Battle Droid: Pilot, Defense Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/103battledroidpilotdefense.gif
+3_104,"Battle Droid: Security, Defense Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/104battledroidsecuritydefe.gif
+3_105,"Battle Droid: Infantry, Defense Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/105battledroidinfantrydefe.gif
+3_106,"Battle Droid: Officer, Defense Division",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/106battledroidofficerdefen.gif
+3_107,"Neimoidian Advisor, Bureaucrat",starter set,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/107neimoidianadvisorbureau.gif
+3_108,"Darth Maul, Evil Sith Lord",starter set,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/dark/108darthmaulevilsithlord.gif
+3_1,"Obi-Wan Kenobi, Jedi Knight",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/1obiwankenobijediknight.gif
+3_2,"Qui-Gon Jinn, Jedi Ambassador",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/2quigonjinnjediambassador.gif
+3_3,"Jar Jar Binks, Bombad Gungan General",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/3jarjarbinksbombadgungangen.gif
+3_4,"Anakin Skywalker, Padawan",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/4anakinskywalkerpadawan.gif
+3_5,"Padmé Naberrie, Amidala's Handmaiden",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/5padmenaberrieamidalashandm.gif
+3_6,"Captain Panaka, Veteran Leader",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/6captainpanakaveteranleader.gif
+3_7,"Mace Windu, Jedi Speaker",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/7macewindujedispeaker.gif
+3_8,"Queen Amidala, Resolute Negotiator",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/8queenamidalaresolutenegoti.gif
+3_9,"Queen Amidala, Keeper of the Peace",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/9queenamidalakeeperofthepea.gif
+3_10,"Yoda, Jedi Elder",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/10yodajedielder.gif
+3_11,"R2-D2, The Queen's Hero",rare,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/11r2d2thequeenshero.gif
+3_12,"Boss Nass, Gungan Chief",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/12bossnassgunganchief.gif
+3_13,"Ric Olié, Bravo Leader",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/13ricoliebravoleader.gif
+3_14,"Captain Tarpals, Gungan Officer",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/14captaintarpalsgunganoffic.gif
+3_15,"Sio Bibble, Governor of Naboo",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/15siobibblegovernorofnaboo.gif
+3_16,"Sabé, Handmaiden Decoy Queen",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/16sabehandmaidendecoyqueen.gif
+3_17,"Saché, Handmaiden",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/17sachehandmaiden.gif
+3_18,"Yané, Handmaiden",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/18yanehandmaiden.gif
+3_19,"Naboo Officer, Squad Leader",uncommon,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/19nabooofficersquadleader.gif
+3_20,"Naboo Officer, Commander",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/20nabooofficercommander.gif
+3_21,"Naboo Bureaucrat, Official",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/21naboobureaucratofficial.gif
+3_22,"Naboo Security, Trooper",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/22naboosecuritytrooper.gif
+3_23,"Naboo Security, Defender",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/23naboosecuritydefender.gif
+3_24,"Bravo Pilot, Ace Flyer",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/24bravopilotaceflyer.gif
+3_25,"Coruscant Guard, Chancellor's Escort",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/25coruscantguardchancellors.gif
+3_26,"Alderaan Diplomat, Senator",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/26alderaandiplomatsenator.gif
+3_27,"Council Member, Naboo Governor",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/27councilmembernaboogoverno.gif
+3_28,"Gungan Warrior, Veteran",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/28gunganwarriorveteran.gif
+3_29,"Gungan Guard, Lookout",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/29gunganguardlookout.gif
+3_30,"Gungan General, Army Leader",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/30gungangeneralarmyleader.gif
+3_31,"Gungan Soldier, Infantry",common,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/31gungansoldierinfantry.gif
+3_32,"Rep Officer, Gungan Diplomat",starter set,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/32repofficergungandiplomat.gif
+3_33,"Obi-Wan Kenobi, Jedi Negotiator",starter set,https://res.starwarsccg.org/youngjedi/cards/battleofnaboo/light/33obiwankenobijedinegotiato.gif
+4_P1,"Qui-Gon Jinn, Jedi Protector",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedmenaceofdarthmaul/light/quigonjinn.jpg
+4_P2,"Mace Windu, Jedi Warrior",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedmenaceofdarthmaul/light/macewindu.jpg
+4_P3,"Queen Amidala, Cunning Warrior",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedmenaceofdarthmaul/light/queenamidala.jpg
+4_P4,"Darth Maul, Sith Assassin",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedmenaceofdarthmaul/dark/darthmaul.jpg
+4_P5,"Sebulba, Champion Podracer Pilot",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedmenaceofdarthmaul/dark/sebulba.jpg
+4_P6,"Trade Federation Tank, Assault Leader",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedmenaceofdarthmaul/dark/tradefederationtank.jpg
+5_31,"Darth Maul, Student of the Dark Side",ultra-rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/darthmaul.gif
+5_32,"Darth Sidious, Master of the Dark Side",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/darthsidious.gif
+5_33,"Aurra Sing, Trophy Collector",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/aurrasing.gif
+5_34,"Tey How, Neimoidian Command Officer",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/teyhow.gif
+5_35,"OWO-1, Battle Droid Command Officer",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/owo1.gif
+5_36,"Rayno Vaca, Taxi Driver",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/raynovaca.gif
+5_37,"Baskol Yeesrim, Gran Senator",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/baskolyeesrim.gif
+5_38,"Starfighter Droid, DFS-327",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/starfighterdroiddfs327.gif
+5_39,"Starfighter Droid, DFS-1104",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/starfighterdroiddfs1104.gif
+5_40,"Starfighter Droid, DFS-1138",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/dark/starfighterdroiddfs1138.gif
+5_1,"Obi-Wan Kenobi, Jedi Student",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/obiwankenobi.gif
+5_2,"Qui-Gon Jinn, Jedi Mentor",ultra-rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/quigonjinnjedimentor.gif
+5_3,"Anakin Skywalker, Rookie Pilot",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/anakinskywalker.gif
+5_4,"Captain Panaka, Security Commander",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/captainpanaka.gif
+5_5,"Mace Windu, Jedi Councilor",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/macewindu.gif
+5_6,"Queen Amidala, Young Leader",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/queenamidala.gif
+5_7,"Yoda, Jedi Philosopher",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/yodajediphilosopher.gif
+5_8,"R2-D2, Repair Droid",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/r2d2repairdroid.gif
+5_9,"Ric Olie, Starship Pilot",rare,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/ricoliestarshippilot.gif
+5_10,"Bravo Pilot, Flyer",common,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/bravopilotflyer.gif
+5_11,"Valorum, Leader of the Senate",common,https://res.starwarsccg.org/youngjedi/cards/duelofthefates/light/valorum.gif
+6_P9,"Anakin Skywalker, Tested By The Jedi Council",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/anakinskywalker.gif
+6_P11,"Captain Panaka, Royal Defender",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/captainpanaka.gif
+6_P8,"Obi-Wan Kenobi, Jedi Avenger",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/obiwankenobi.gif
+6_P10,"Padmé Naberrie, Loyal Handmaiden",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/padmenaberrie.gif
+6_P13,"R2-D2, Starship Maintenance Droid",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/r2d2.gif
+6_P12,"Yoda, Wise Jedi",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/light/yoda.gif
+6_P16,"Aurra Sing, Scoundrel",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/aurrasing.gif
+6_P14,"Darth Sidious, The Phantom Menace",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/darthsidious.gif
+6_P17,Jabba The Hutt,pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/jabbathehutt.gif
+6_P18,"Nute Gunray, Neimoidean Bureaucrat",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/nutegunray.gif
+6_P19,"Rune Haako, Neimoidean Lieutenant",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/runehaako.gif
+6_P15,"Watto, Risk Taker",pm,https://res.starwarsccg.org/youngjedi/cards/enhancedbattleofnaboo/dark/watto.gif
+7_1,"Queen Amidala, Royal Leader",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/009-queenamidalaroyalleader.gif
+7_2,"Yoda, Jedi Master",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/010-yodajedimaster.gif
+7_3,"Anakin Skywalker, Child of Prophecy",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/004-anakinskywalkerchildof.gif
+7_4,"Queen Amidala, Voice of Her People",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/009-queenamidalavoiceofher.gif
+7_5,"Anakin Skywalker, Padawan",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/004-anakinskywalkerpadawan.gif
+7_6,"Mace Windu, Jedi Speaker",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/007-macewindujedispeaker.gif
+7_7,"Qui-Gon Jinn, Jedi Protector",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P1-quigonjinn.jpg
+7_8,"Mace Windu, Jedi Warrior",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P2-macewindu.jpg
+7_9,"Queen Amidala, Cunning Warrior",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P3-queenamidala.jpg
+7_10,"Obi-Wan Kenobi, Jedi Student",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/01-obiwankenobi.gif
+7_11,"Qui-Gon Jinn, Jedi Mentor",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/02-quigonjinnjedimentor.gif
+7_12,"Anakin Skywalker, Rookie Pilot",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/03-anakinskywalker.gif
+7_13,"Captain Panaka, Security Commander",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/04-captainpanaka.gif
+7_14,"Mace Windu, Jedi Councilor",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/05-macewindu.gif
+7_15,"Queen Amidala, Young Leader",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/06-queenamidala.gif
+7_16,"Yoda, Jedi Philosopher",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/07-yodajediphilosopher.gif
+7_17,"Shmi Skywalker, Anakin's Mother",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P7-shmiskywalker.jpg
+7_18,"Obi-Wan Kenobi, Jedi Avenger",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P08-obiwankenobi.gif
+7_19,"Anakin Skywalker, Tested by the Jedi Council",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P09-anakinskywalker.gif
+7_20,"Padmé Naberrie, Loyal Handmaiden",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P10-padmenaberrie.gif
+7_21,"Captain Panaka, Royal Defender",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P11-captainpanaka.gif
+7_22,"Yoda, Wise Jedi",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P12-yoda.gif
+7_23,"R2-D2, Starship Maintenance Droid",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/P13-r2d2.gif
+7_24,"Yoda, Jedi Instructor",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/yodaboonta.jpg
+7_25,"C-3PO, Human-Cyborg Relations Droid",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/c3poboonta.jpg
+7_26,"Jira, Pallie Vendor",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/jiraboonta.jpg
+7_27,"Kitster, Anakin's Friend",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/kitsterboonta.jpg
+7_28,"Wald, Anakin's Friend",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/waldboonta.jpg
+7_29,"Amidala's Starship, Queen's Transport",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_30,"Watto, Slave Owner",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_31,"Aurra Sing, Bounty Hunter",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_32,"Trade Federation Tank, Armored Division",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_33,"Sebulba, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_34,"Destroyer Droid Squad, Defense Division",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_35,"Battle Droid Squad, Escort Unit",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_36,"Trade Federation Tank, Assault Division",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_37,"Darth Sidious, Sith Manipulator",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_38,"Sebulba, Dangerous Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_39,"Watto, Toydarian Gambler",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_40,"Jabba The Hutt, Crime Lord",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_41,"Rune Haako, Neimoidian Deputy",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_42,"Darth Maul, Sith Assassin",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P4-darthmaul.jpg
+7_43,"Sebulba, Champion Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P5-sebulba.jpg
+7_44,"Trade Federation Tank, Assault Leader",rare,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P6-tradefederationtank.jpg
+7_45,"Darth Maul, Student of the Dark Side",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_46,"Darth Sidious, Master of the Dark Side",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_47,"Aurra Sing, Trophy Collector",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/light/amidalasstarshipboonta.jpg
+7_48,"Darth Sidious, The Phantom Menace",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P14-darthsidious.gif
+7_49,"Watto, Risk Taker",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P15-watto.gif
+7_50,"Aurra Sing, Scoundrel",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P16-aurrasing.gif
+7_51,"Jabba The Hutt, Tatooine Tyrant",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P17-jabbathehutt.gif
+7_52,"Nute Gunray, Neimoidian Bureaucrat",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P18-nutegunray.gif
+7_53,"Rune Haako, Neimoidian Lieutenant",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/P19-runehaako.gif
+7_54,"Watto, Podrace Sponsor",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/wattoboonta.jpg
+7_55,"Aurra Sing, Formidable Adversary",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/aurrasingboonta.jpg
+7_56,"Jabba The Hutt, O Grandio Lust",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/jabbathehuttboonta.jpg
+7_57,"TC-14, Protocol Droid",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/tc14boonta.jpg
+7_58,"Orr'UrRuuR'R, Tusken Raider Leader",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/orrurruurrboonta.jpg
+7_59,"Viceroy's Battleship, Trade Federation Transport",uncommon,https://res.starwarsccg.org/youngjedi/cards/reflections/dark/viceroysbattleshipboonta.jpg
+8_1,"Anakin Skywalker, Boonta Eve Podracer Pilot",ultra-rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/1anakinskywalkerboontaeve.jpg
+8_2,"Yoda, Jedi Instructor",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/2yodajediinstructor.jpg
+8_3,"C-3PO, Human-Cyborg Relations Droid",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/3c3pohumancyborgrelations.jpg
+8_4,"Jira, Pallie Vendor",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/4jirapallievendor.jpg
+8_5,"Kitster, Anakin's Friend",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/5kitsteranakinsfriend.jpg
+8_6,"Wald, Anakin's Friend",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/6waldanakinsfriend.jpg
+8_7,"Seek, Anakin's Friend",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/7seekanakinsfriend.jpg
+8_8,"Amee, Anakin's Friend",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/8ameeanakinsfriend.jpg
+8_9,"Melee, Anakin's Friend",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/9meleeanakinsfriend.jpg
+8_10,"Captain Tarpals, Gungan Leader",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/10captaintarpalsgungan.jpg
+8_11,"Boles Roor, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/11bolesroorpodracerpilot.jpg
+8_12,"Elan Mak, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/12elanmakpodracerpilot.jpg
+8_13,"Neva Kee, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/13nevakeepodracerpilot.jpg
+8_14,"Wan Sandage, Podracer Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/14wansandagepodracerpilot.jpg
+8_15,"Shmi Skywalker, Anakin's Mother",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/light/15shmiskywalkeranakins.jpg
+8_31,"Sebulba, Dug Podracer Pilot",ultra-rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/31sebulbadugpodracerpilot.jpg
+8_32,"Watto, Podrace Sponsor",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/32wattopodracesponsor.jpg
+8_33,"Aurra Sing, Formidable Adversary",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/33aurrasingformidable.jpg
+8_34,"Jabba The Hutt, O Grandio Lust",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/34jabbathehuttograndiolust.jpg
+8_35,"TC-14, Protocol Droid",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/35tc14protocoldroid.jpg
+8_36,"Orr'UrRuuR'R, Tusken Raider Leader",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/36orrurruurrtuskenraider.jpg
+8_37,"UrrOr'RuuR, Tusken Raider Warrior",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/37urrorruurtuskenraider.jpg
+8_38,"RuuR'Ur, Tusken Raider Sniper",common,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/38ruururtuskenraidersniper.jpg
+8_39,"Sil Unch, Neimoidian Comm Officer",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/39silunchneimoidiancomm.jpg
+8_40,Graxol Kelvyyn and Shakka,uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/40graxolkelvyynandshakka.jpg
+8_41,"Corix Venne, Bith Musician",common,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/41corixvennebithmusician.jpg
+8_42,"Reike Th'san, Arms Smuggler",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/42reikethsanarmssmuggler.jpg
+8_43,"Meddun, Nikto Mercenary",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/43meddunniktomercenary.jpg
+8_44,"Rum Sleg, Bounty Hunter",rare,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/44rumslegbountyhunter.jpg
+8_45,"Aehrrley Rue, Freelance Pilot",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/45aehrrleyruefreelance.jpg
+8_46,"Jedwar Seelah, Explorer Scout",uncommon,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/46jedwarseelahexplorer.jpg
+8_47,"Chokk, Klatooinian Explosives Expert",common,https://res.starwarsccg.org/youngjedi/cards/boontaevepodrace/dark/47chokkklatooinian.jpg
